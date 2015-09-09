@@ -2,6 +2,13 @@
 a3xa engine customized for avenidaazul.a3xa.com ---
 ***********************************************************************
 updated: 2015-09-09 
+FILES: a3xaj-9.19.10-min.js
+Main Objective: MO#1-Narrowing-Selection-by-Category
+Job: MO#1.1-Preliminaries
+Task: MO#1.1.2-PNSC-Full-Client-PC-Control-Panels-Management
+Fix Anomaly: Show Empty Entities List
+***********************************************************************
+updated: 2015-09-09 
 FILES: a3xaj-9.19.9-min.js, a3xac-9.19.9.css
 Main Objective: MO#1-Narrowing-Selection-by-Category
 Job: MO#1.1-Preliminaries
