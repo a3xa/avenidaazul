@@ -1,8 +1,13 @@
 # avenidaazul
 a3xa engine customized for avenidaazul.a3xa.com ---
 ***********************************************************************
+update: 2015-09-16 
+FILES: a3xaj-9.20.20.min.js 
+Release 9.20.20-2015-09-16-Job-1.2.0.0
+Narrowing-Selection-by-Category-.-Version 1-.-//-.-//
+***********************************************************************
 update: 2015-09-10 
-FILES: a3xaj-9.19.12-min.js 
+FILES: a3xaj-9.19.12.min.js 
 Release 9.19.12-2015-09-10-Job-1.1.2.2
 Narrowing-Selection-by-Category-.-Preliminaries-.-Full-Client-PC-Control-Panels-Management-.-
 Anomaly-inheritance-fails-on-group-entities-supplementary-infos-empty 
