@@ -1,6 +1,11 @@
 # avenidaazul
 a3xa engine customized for avenidaazul.a3xa.com ---
 ***********************************************************************
+update: 2015-09-30 
+FILES: a3xaj-9.21.35.min.js 
+Release 9.21.35-2015-09-30-Job-1.3.0.0
+Sprite-Icons-.-Version 1-.-//-.-//
+***********************************************************************
 update: 2015-09-16 
 FILES: a3xaj-9.20.20.min.js 
 Release 9.20.20-2015-09-16-Job-1.2.0.0
