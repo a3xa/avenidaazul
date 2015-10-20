@@ -3,6 +3,11 @@ a3xa engine customized for avenidaazul.a3xa.com ---
 ***********************************************************************
 ***********************************************************************
 update: 2015-10-20
+FILES: a3xaj-9.26.6.min.js 
+Release 9.26.6-2015-10-20-Job-16.1.0.0
+Dynamic-Self-Narrowing-View-For-Smartphone-.-Fixes-.-//-.-//
+***********************************************************************
+update: 2015-10-20
 FILES: a3xaj-9.26.5.min.js 
 Release 9.26.5-2015-10-20-Job-16.0.0.0
 Dynamic-Self-Narrowing-View-For-Smartphone-.-//-.-//-.-//
