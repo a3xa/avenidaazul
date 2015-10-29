@@ -2,6 +2,11 @@
 a3xa engine customized for avenidaazul.a3xa.com ---
 ***********************************************************************
 ***********************************************************************
+update: 2015-10-29
+FILES: a3xaj-9.27.15.min.js 
+Release: 9.27.15-2015-10-29
+NOF-ITEMS-SELECTION-BOXES/Preliminary-Updates/ServerSide-AltIndex-Suppression
+***********************************************************************
 update: 2015-10-22
 FILES: a3xaj-9.26.15.min.js 
 Release 9.26.15-2015-10-22-Job-16.3.0.0
