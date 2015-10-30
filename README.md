@@ -2,6 +2,10 @@
 a3xa engine customized for avenidaazul.a3xa.com ---
 ***********************************************************************
 ***********************************************************************
+update: 2015-10-30
+FILES: a3xaj-9.27.20.min.js 
+NOF-ITEMS-SELECTION-BOXES/Preliminary-Updates/AltIndex-FlyStorage-Only-and-Server-Fixes
+***********************************************************************
 update: 2015-10-29
 FILES: a3xaj-9.27.15.min.js 
 Release: 9.27.15-2015-10-29
