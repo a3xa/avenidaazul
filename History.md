@@ -2,6 +2,11 @@
 a3xa engine customized for avenidaazul.a3xa.com ---
 ***********************************************************************
 ***********************************************************************
+Notes:2015-11-07
+Start A3xa JS Framework A3xaFW - 
+Start JS Security Ecmascript 5 avoid new & this "Crockford classless guidelines" and/or "Prototype inheritance"
+Start Revision Db: preliminaries for Cloud Db
+***********************************************************************
 update: 2015-11-07
 FILES: a3xaj-9.27.41.min.js 
 SHOW-NOF-ITEMS-SELECTION-BOXES-AND-SUPPRESS-HIGHLIGHT-BOXES
