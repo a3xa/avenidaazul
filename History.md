@@ -3,6 +3,11 @@ a3xa engine customized for avenidaazul.a3xa.com ---
 ***********************************************************************
 ***********************************************************************
 update: 2015-11-07
+FILES: a3xaj-9.27.41.min.js 
+SHOW-NOF-ITEMS-SELECTION-BOXES-AND-SUPPRESS-HIGHLIGHT-BOXES
+Fix-View-Enterprise-Groups
+***********************************************************************
+update: 2015-11-07
 FILES: a3xaj-9.27.40.min.js 
 SHOW-NOF-ITEMS-SELECTION-BOXES-AND-SUPPRESS-HIGHLIGHT-BOXES
 ***********************************************************************
