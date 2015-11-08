@@ -2,6 +2,11 @@
 a3xa engine customized for avenidaazul.a3xa.com ---
 ***********************************************************************
 ***********************************************************************
+update: 2015-11-08
+FILES: None
+Update-to-Jquery-2.1.4.js-From-Common-CDN
+Delete-temporary-jquery-from-lib
+***********************************************************************
 Notes:2015-11-07
 Start A3xa JS Framework A3xaFW - 
 Start JS Security Ecmascript 5 avoid new & this "Crockford classless guidelines" and/or "Prototype inheritance"
