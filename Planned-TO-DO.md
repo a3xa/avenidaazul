@@ -1,8 +1,7 @@
-**** WORK IN PROGRESS ****
+**** PLANNED TO DO ****
 a3xa engine customized for avenidaazul.a3xa.com 
-07-nov-2015 **** 
-Release 9.28 Revision Db: preliminaries to Cloud db ****
-Next Planned: 
+08-nov-2015 **** 
+ 
 #35 Ajax-startup-queries 
 #40 Fix Turbo 
 #50 Orderby GeoCoords 
