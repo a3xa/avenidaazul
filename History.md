@@ -2,6 +2,11 @@
 a3xa engine customized for avenidaazul.a3xa.com ---
 ***********************************************************************
 ***********************************************************************
+update: 2015-11-10
+FILES: a3xaj-9.28.10.min.js 
+A3xaStaticDataSource-ControlPanel-K
+Db-Renaming-and-misc
+***********************************************************************
 update: 2015-11-08
 FILES: None
 Update-to-Jquery-2.1.4.js-From-Common-CDN
