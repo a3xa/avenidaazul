@@ -4,23 +4,20 @@ a3xa engine customized for avenidaazul.a3xa.com ---
 ***********************************************************************
 update: 2015-11-10
 FILES: a3xaj-9.28.10.min.js 
-A3xaStaticDataSource-ControlPanel-K
-Db-Renaming-and-misc
+A3xaStaticDataSource-ControlPanel-K//Db-Renaming-and-misc
 ***********************************************************************
 update: 2015-11-08
 FILES: None
-Update-to-Jquery-2.1.4.js-From-Common-CDN
-Delete-temporary-jquery-from-lib
+Update-to-Jquery-2.1.4.js-From-Common-CDN-and-Delete-temporary-jquery-from-lib
 ***********************************************************************
 Notes:2015-11-07
 Start A3xa JS Framework A3xaFW - 
-Start JS Security Ecmascript 5 avoid new & this "Crockford classless guidelines" and/or "Prototype inheritance"
+Start JS Security Ecmascript 5 avoid new & this//"Crockford classless guidelines" and/or "Prototype inheritance"//
 Start Revision Db: preliminaries for Cloud Db
 ***********************************************************************
 update: 2015-11-07
 FILES: a3xaj-9.27.41.min.js 
-SHOW-NOF-ITEMS-SELECTION-BOXES-AND-SUPPRESS-HIGHLIGHT-BOXES
-Fix-View-Enterprise-Groups
+SHOW-NOF-ITEMS-SELECTION-BOXES-AND-SUPPRESS-HIGHLIGHT-BOXES//Fix-View-Enterprise-Groups
 ***********************************************************************
 update: 2015-11-07
 FILES: a3xaj-9.27.40.min.js 
@@ -28,16 +25,16 @@ SHOW-NOF-ITEMS-SELECTION-BOXES-AND-SUPPRESS-HIGHLIGHT-BOXES
 ***********************************************************************
 update: 2015-11-03
 FILES: a3xaj-9.27.20a.min.js 
-NOF-ITEMS-SELECTION-BOXES/Preliminary-Updates/AltIndex-FlyStorage-Only-and-Server-Fixes/Patch-Icon-URLS
+NOF-ITEMS-SELECTION-BOXES//Preliminary-Updates//AltIndex-FlyStorage-Only-and-Server-Fixes//Patch-Icon-URLS
 ***********************************************************************
 update: 2015-10-30
 FILES: a3xaj-9.27.20.min.js 
-NOF-ITEMS-SELECTION-BOXES/Preliminary-Updates/AltIndex-FlyStorage-Only-and-Server-Fixes
+NOF-ITEMS-SELECTION-BOXES//Preliminary-Updates//AltIndex-FlyStorage-Only-and-Server-Fixes
 ***********************************************************************
 update: 2015-10-29
 FILES: a3xaj-9.27.15.min.js 
 Release: 9.27.15-2015-10-29
-NOF-ITEMS-SELECTION-BOXES/Preliminary-Updates/ServerSide-AltIndex-Suppression
+NOF-ITEMS-SELECTION-BOXES//Preliminary-Updates//ServerSide-AltIndex-Suppression
 ***********************************************************************
 update: 2015-10-22
 FILES: a3xaj-9.26.15.min.js 
