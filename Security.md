@@ -15,7 +15,7 @@ https://w3c.github.io/webappsec-subresource-integrity/
 2.If the script or stylesheet doesn’t match its associated integrity value, then the browser must refuse to execute the script or apply the stylesheet, and must instead return a network error indicating that fetching of that script or stylesheet failed.
 //
 Browsers Supporting SRI: 
-The integrity attribute for <script> and <link> 
+The integrity attribute for script and link 
 Chrome 45.0 // Firefox (Gecko) 43 // Opera 32 // Internet Explorer Not supported // Safari Not supported 
 **************************************
 2015-11-07 //
