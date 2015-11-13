@@ -6,6 +6,9 @@ update:2015-11-13
 
 //  -----------   SUBRESOURCE INTEGRITY (SRI)  -----------  //
 https://w3c.github.io/webappsec-subresource-integrity/
+     //----------- 
+https://hacks.mozilla.org/2015/09/subresource-integrity-in-firefox-43/
+    //----------- 
 //----------- Browsers Supporting SRI: -----------  
 The integrity attribute for script and link 
 Chrome 45.0 // Firefox (Gecko) 43 // Opera 32 // Internet Explorer Not supported // Safari Not supported 
