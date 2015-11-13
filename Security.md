@@ -7,11 +7,11 @@ update:2015-11-13
 SUBRESOURCE INTEGRITY (SRI)//
 https://w3c.github.io/webappsec-subresource-integrity/
 //-----------EXAMPLE----------
-<script src="https://example.com/example-framework.js"
+\<script src="https://example.com/example-framework.js"
         integrity="sha256-C6CB9UYIS9UJeqinPHWTHVqh/E1uhG5Twh+Y5qFQmYg="
-        crossorigin="anonymous"></script>
+        crossorigin="anonymous"\>\</script\>
 //
-1.When a browser encounters a <script> or <link> element with an integrity attribute, before executing the script or before applying any stylesheet specified by the <link> element, the browser must first compare the script or stylesheet to the expected hash given in the integrity value.
+1.When a browser encounters a\<script\> or \<link\> element with an integrity attribute, before executing the script or before applying any stylesheet specified by the \<link\> element, the browser must first compare the script or stylesheet to the expected hash given in the integrity value.
 2.If the script or stylesheet doesn’t match its associated integrity value, then the browser must refuse to execute the script or apply the stylesheet, and must instead return a network error indicating that fetching of that script or stylesheet failed.
 //
 Browsers Supporting SRI: 
