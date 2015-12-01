@@ -3,6 +3,10 @@ a3xa engine customized for avenidaazul.a3xa.com ---
 ***********************************************************************
 ***********************************************************************
 update: 2015-12-01 
+FILES: a3xaj-9.29.31.min.js
+//Maintenance-Release//A3xaStaticDataSource-ControlPanel-K//FIX-UTF8
+***********************************************************************
+update: 2015-12-01 
 FILES: a3xaj-9.29.30.min.js
 Maintenance-Release//A3xaStaticDataSource-ControlPanel-K//Db-Tables-Split
 ***********************************************************************
