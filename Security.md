@@ -8,7 +8,7 @@ READY AND WAITING FIREFOX RELEASE 43 FOR THE FINAL TEST
 
 DEV WEBSITE html 
 ......
-<script src="https://rawgit.com/a3xa/avenidaazul/master/a3xaj/a3xaj-9.29.34.min.js" integrity="sha384-ykc0mUyq7zNS4PIxMNBoo36TOFezaCB7lARLk1nbAqX21E26lQWGcxhgzrybyis7" crossorigin="anonymous" type="text/javascript"></script>
+&lt;script src="https://rawgit.com/a3xa/avenidaazul/master/a3xaj/a3xaj-9.29.34.min.js" integrity="sha384-ykc0mUyq7zNS4PIxMNBoo36TOFezaCB7lARLk1nbAqX21E26lQWGcxhgzrybyis7" crossorigin="anonymous" type="text/javascript"&gt;&lt;/script&gt;
 ......
 
 -------------------------
