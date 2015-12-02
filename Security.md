@@ -2,6 +2,32 @@ NOTES ON SECURITY
 
 
 **************************************
+update:2015-12-02
+//  -----------   SUBRESOURCE INTEGRITY (SRI)  -----------  //
+READY AND WAITING FIREFOX RELEASE 43 FOR THE FINAL TEST 
+
+DEV WEBSITE html 
+......
+<script src="https://rawgit.com/a3xa/avenidaazul/master/a3xaj/a3xaj-9.29.34.min.js" integrity="sha384-ykc0mUyq7zNS4PIxMNBoo36TOFezaCB7lARLk1nbAqX21E26lQWGcxhgzrybyis7" crossorigin="anonymous" type="text/javascript"></script>
+......
+
+-------------------------
+CDNs Supporting SRI
+http://githubengineering.com/subresource-integrity/
+https://www.bootstrapcdn.com/
+https://blog.cloudflare.com/an-introduction-to-javascript-based-ddos/
+
+-------------------------
+TOOLS SRI
+SRI Hash Generator  https://srihash.org/
+
+-------------------------
+Browsers Supporting SRI
+Chrome 45 // Firefox 43 // Opera 32 // Internet Explorer Not supported // Safari Not supported //
+Microsoft Edge support is "under consideration". Vote for the feature here.
+https://wpdev.uservoice.com/forums/257854-microsoft-edge-developer/suggestions/6263699-subresource-integrity
+
+**************************************
 update:2015-11-13
 
 //  -----------   SUBRESOURCE INTEGRITY (SRI)  -----------  //
