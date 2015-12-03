@@ -2,6 +2,10 @@
 a3xa engine customized for avenidaazul.a3xa.com ---
 ***********************************************************************
 ***********************************************************************
+update: 2015-12-03 
+FILES: a3xaj-9.30.10.min.js
+//Maintenance-Release//A3xaStaticDataSource-ControlPanel-K//JSDS-Db-Bulk-ReadWrite//FIXES
+***********************************************************************
 update: 2015-12-02 
 FILES: a3xaj-9.29.34.min.js
 //Maintenance-Release//A3xaStaticDataSource-ControlPanel-K//Update-Cloud-Sprites
