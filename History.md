@@ -3,6 +3,10 @@ a3xa engine customized for avenidaazul.a3xa.com ---
 ***********************************************************************
 ***********************************************************************
 update:2015-12-21//
+FILES:a3xaj-9.31.71.min.js//
+A3xaStaticDataSource//FIXES
+***********************************************************************
+update:2015-12-21//
 FILES:a3xaj-9.31.70.min.js//
 A3xaStaticDataSource//TOC-Table-Of-Contents//FIXED-Extended-Headers-Bottleneck//Subresource-Integrity-Activation//
 ***********************************************************************
