@@ -2,6 +2,10 @@
 a3xa engine customized for avenidaazul.a3xa.com ---
 ***********************************************************************
 ***********************************************************************
+update:2015-12-31//
+FILES:a3xaj-9.32.30.min.js//
+A3xaStaticDataSource//Maintenance-Release//FIXES//URL-XurCompactCode
+***********************************************************************
 update:2015-12-21//
 FILES:a3xaj-9.31.71.min.js//
 A3xaStaticDataSource//FIXES
