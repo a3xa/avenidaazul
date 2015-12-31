@@ -2,9 +2,9 @@ NOTES ON SECURITY
 
 
 **************************************
-update:2015-12-02
+update:2015-12-31
 //  -----------   SUBRESOURCE INTEGRITY (SRI)  -----------  //
-READY AND WAITING FIREFOX RELEASE 43 FOR THE FINAL TEST 
+ACTIVE ON FIREFOX RELEASE 43 
 
 DEV WEBSITE html 
 ......
