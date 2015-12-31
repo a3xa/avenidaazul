@@ -1,7 +1,7 @@
 **** PLANNED TO DO ****
 a3xa engine customized for avenidaazul.a3xa.com 
-08-nov-2015 **** 
- 
+31-dec-2015 **** 
+#34 Data-Operations-Performances
 #35 Ajax-startup-queries 
 #40 Fix Turbo 
 #50 Orderby GeoCoords 
