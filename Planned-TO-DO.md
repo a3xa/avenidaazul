@@ -5,11 +5,11 @@ ______________________________________________
 #34 Data-Operations-Performances
 #35 Ajax-startup-queries 
 #40 Fix Turbo 
-#50 Start DDAFJOO//New Popup not joomla 
-#60 DDAFJOO//Googlemap not joomla 
-#70 DDAFJOO//A3xaJOO=Well-defined-Joomlasucks-Abstraction-Layer 
-#80 DDAFJOO//A3xaAL=A3xa-System-Abstraction-Layer//Mysql + misc php + JS client residual
-#90 DDAFJOO//Finally Detach Directory-app from Joomlasucks 
+#100 Start DDAFJOO//New Popup not joomla 
+#110 DDAFJOO//Googlemap not joomla 
+#120 DDAFJOO//A3xaJOO=Well-defined-Joomlasucks-Abstraction-Layer 
+#130 DDAFJOO//A3xaAL=A3xa-System-Abstraction-Layer//Mysql + misc php + JS client residual
+#140 DDAFJOO//Finally Detach Directory-app from Joomlasucks 
 #200 A3xaCloud=Start Cloud a3xa-dbms engine 
 #210 A3xaCloud//Cloud commondb & geodb 
 #300 Orderby GeoCoords 
