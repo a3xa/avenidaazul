@@ -1,6 +1,6 @@
 **** PLANNED TO DO ****
 a3xa engine customized for avenidaazul.a3xa.com 
-02-jan-2016 **** 
+04-jan-2016 **** 
 ______________________________________________
 
 #20 DOP(*)/Full-Ajax-Application 
