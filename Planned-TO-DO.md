@@ -2,10 +2,10 @@
 a3xa engine customized for avenidaazul.a3xa.com 
 02-jan-2016 **** 
 ______________________________________________
-#10 Data-Operations-Performances
-#20 Ajax-startup-queries 
+
+#20 DOP(*)/Full-Ajax-Application 
 #30 Fix Turbo 
-#100 Start DDAFJOO//New Popup not joomla 
+#100 Start DDAFJOO(*)//New Popup not joomla 
 #110 DDAFJOO//Googlemap not joomla 
 #120 DDAFJOO//A3xaJOO=Well-defined-Joomlasucks-Abstraction-Layer 
 #130 DDAFJOO//A3xaAL=A3xa-System-Abstraction-Layer//Mysql + misc php + JS client residual
@@ -20,3 +20,4 @@ ______________________________________________
 ______________________________________________
 (*)
 DDAFJOO: Detach Directory App From Joomlasucks
+DOP: Data-Operations-Performances
