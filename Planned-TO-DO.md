@@ -1,10 +1,8 @@
 **** PLANNED TO DO ****
 a3xa engine customized for avenidaazul.a3xa.com 
-04-jan-2016 **** 
+09-jan-2016 **** 
 ______________________________________________
 
-#20 DOP(*)/Full-Ajax-Application 
-#30 Fix Turbo 
 #100 Start DDAFJOO(*)//New Popup not joomla 
 #110 DDAFJOO//Googlemap not joomla 
 #120 DDAFJOO//A3xaJOO=Well-defined-Joomlasucks-Abstraction-Layer 
