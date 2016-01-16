@@ -19,7 +19,6 @@ ______________________________________________
 * #300 10x enterprises in the database 
 
 ______________________________________________
-BREAKING BABYLON RULES
 ______________________________________________
 (*) UNCLOUD: A3xa UNCONVENTIONAL CLOUDING
 * #400 A3xaCloud=Start Cloud a3xa-dbms engine 
