@@ -4,7 +4,6 @@ a3xa engine customized for avenidaazul.a3xa.com
 ______________________________________________
 
 . AJAX FULL DIRECTORY APPLICATION
-
 . ASYNCHRONOUS INDEXEDDB, LOCAL-STORAGE, SESSION-STORAGE, FLY-STORAGE  for TURBO JSON data operations
 
 . PRIVATE ANONYMOUS BROWSING AVAILABLE 
