@@ -1,21 +1,41 @@
 **** PLANNED TO DO ****
 a3xa engine customized for avenidaazul.a3xa.com 
-09-jan-2016 **** 
+16-jan-2016 **** 
+______________________________________________
+(*)DDAJOO: Detach Directory App From Joomlasucks
+
+#100 Start DDAJOO(*)//New Popup not joomla 
+#110 DDAJOO//Googlemap not joomla 
+#120 DDAJOO//A3xaJOO=Well-defined-Joomlasucks-Abstraction-Layer 
+#130 DDAJOO//A3xaAL=A3xa-System-Abstraction-Layer//Mysql + misc php + JS client residual
+#140 DDAJOO//Finally Detach Directory-app from Joomlasucks 
+
+______________________________________________
+#200 Orderby GeoCoords 
+#210 N-dim Categories metasystem 
+#220 Microregions 
+
+______________________________________________
+#300 10x enterprises in the database 
+
+______________________________________________
+#400 A3xaCloud=Start Cloud a3xa-dbms engine 
+#410 A3xaCloud//Cloud commondb & geodb 
+
+______________________________________________
+#500 A3xaCloud//Cloud Enterprises-db //
+Has passed the first draft of feasibility.
+a) up to 1000 x 1k = 1Mbytes x microregion
+b) up to 10000 x 1k = 10Mb x each region
+c) up to 1000 regions
+d) up to 10.000 x 1000 regions = 10M records 
+c) up to 10M x 1k = 10 Gb enterprises-db  
+e) Real-time Statistic and Summaries
+f) Dynamic db operations
+g) search operations availables only by google
 ______________________________________________
 
-#100 Start DDAFJOO(*)//New Popup not joomla 
-#110 DDAFJOO//Googlemap not joomla 
-#120 DDAFJOO//A3xaJOO=Well-defined-Joomlasucks-Abstraction-Layer 
-#130 DDAFJOO//A3xaAL=A3xa-System-Abstraction-Layer//Mysql + misc php + JS client residual
-#140 DDAFJOO//Finally Detach Directory-app from Joomlasucks 
-#200 A3xaCloud=Start Cloud a3xa-dbms engine 
-#210 A3xaCloud//Cloud commondb & geodb 
-#300 Orderby GeoCoords 
-#310 N-dim Categories metasystem 
-#320 Microregions 
-#330 Full Local App with better performances & speed 
-#400 10x enterprises in the database 
+#600 Full Local App
+
 ______________________________________________
-(*)
-DDAFJOO: Detach Directory App From Joomlasucks
-DOP: Data-Operations-Performances
+(*) DOP: Data-Operations-Performances
