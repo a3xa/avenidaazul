@@ -23,7 +23,7 @@ ______________________________________________
 #410 A3xaCloud//Cloud commondb & geodb 
 
 ______________________________________________
-#500 A3xaCloud//Cloud Enterprises-db //
+#500 A3xaCloud//Cloud Enterprises-db // UNCONVENTIONAL CLOUDING //
 Has passed the first draft of feasibility.
 a) up to 1000 x 1k = 1Mbytes x microregion
 b) up to 10000 x 1k = 10Mb x each region
