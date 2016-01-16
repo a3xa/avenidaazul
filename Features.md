@@ -8,15 +8,15 @@ ______________________________________________
 * PRIVATE ANONYMOUS BROWSING AVAILABLE 
 * SECURITY: JS SRI SUBRESOURCE INTEGRITY  SHA384 (FIREFOX 43, not tested on chrome)
 * SECURITY: JS changing coding style by crockford classless prototypeless guidelines
-* MIX MYSQL+JS SUMMARY and STATISTICS
+* MIX HOST MYSQL + LOCAL JS SUMMARY and STATISTICS
 * CDN Contents Delivery Network JS A3xa Engine
 * CDN Static A3xa Common-data and Geo Database
-* MYSQL Enterprises and Dynamic Contents Database
+* HOST MYSQL Enterprises and Dynamic Contents Database
 * CDN Sprite Icons
 * CDN Flickr graphics
-* CDN Youtube/Vimeo/Wikipedia contents multimedia
+* Youtube/Vimeo/Wikipedia contents multimedia
 * MIX JSON Data Exchange and Storage + A3xa XML format
-* Model-View-Controller Architecture
+* MVC Architecture
 * Libraries: Jquery only
 * Plugins: Joomla Popup and Googlemap only
 * XURCC eXtended Url unified Request Compact Code parameter + description parameter for queries
