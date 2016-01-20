@@ -5,9 +5,8 @@ ______________________________________________
 (*)DDAJOO: Detach Directory App From Joomlasucks
 
 * #100 Start DDAJOO(*)//New Popup not joomla 
-* #110 DDAJOO//Googlemap not joomla 
-* #120 DDAJOO//A3xaJOO=Well-defined-Joomlasucks-Abstraction-Layer 
-* #130 DDAJOO//A3xaAL=A3xa-System-Abstraction-Layer//Mysql + misc php + JS client residual
+* #120 DDAJOO//A3xaJOO=Well-defined-Joomlasucks-Abstraction-Layer (???)
+* #130 DDAJOO//A3xaAL=A3xa-System-Abstraction-Layer//Mysql + misc php + JS client residual (???)
 * #140 DDAJOO//Finally Detach Directory-app from Joomlasucks 
 
 ______________________________________________
