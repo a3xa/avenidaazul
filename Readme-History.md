@@ -2,6 +2,11 @@
 a3xa engine customized for avenidaazul.a3xa.com ---
 ***********************************************************************
 ***********************************************************************
+update:2016-01-20//
+FILES:a3xaj-9.37.10.min.js,a3xaj-9.37.10.css//
+DDAJOO(\*)//New-Popup-and-Googlemap-not-joomla-MagnificPopup//
+(\*) DDAJOO: Detach Directory App from JOOmlasucks
+***********************************************************************
 update:2016-01-15//
 FILES:a3xaj-9.36.30.min.js,a3xajdb-9.36.30-01601150900.min.js//
 Fix-Turbo-Indexeddb//
