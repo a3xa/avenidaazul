@@ -4,7 +4,7 @@ a3xa engine customized for avenidaazul.a3xa.com
 ______________________________________________
 (*)DDAJOO: Detach Directory App From Joomlasucks
 
-* #100 Start DDAJOO(*)//New Popup not joomla 
+* #115 Fix-A3xa-Photo-Gallery
 * #120 DDAJOO//A3xaJOO=Well-defined-Joomlasucks-Abstraction-Layer (???)
 * #130 DDAJOO//A3xaAL=A3xa-System-Abstraction-Layer//Mysql + misc php + JS client residual (???)
 * #140 DDAJOO//Finally Detach Directory-app from Joomlasucks 
