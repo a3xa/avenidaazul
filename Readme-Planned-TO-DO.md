@@ -4,10 +4,12 @@ a3xa engine customized for avenidaazul.a3xa.com
 ______________________________________________
 (*)DDAJOO: Detach Directory App From Joomlasucks
 
-* #115 Fix-A3xa-Photo-Gallery
-* #120 DDAJOO//A3xaJOO=Well-defined-Joomlasucks-Abstraction-Layer (???)
+* #110 Moving-Administrator-Features-From-Host-to-Clientside
+* #111 Trash-php-view-html-old-code
+* #120 DDAJOO//A3xaJOO=Joomlasucks-Abstraction-Layer
 * #130 DDAJOO//A3xaAL=A3xa-System-Abstraction-Layer//Mysql + misc php + JS client residual (???)
-* #140 DDAJOO//Finally Detach Directory-app from Joomlasucks 
+* #140 DDAJOO//Migrating-to-Laravel-php-framework
+* #150 DDAJOO//Finally Detach Directory-app from Joomlasucks 
 
 ______________________________________________
 * #200 Orderby GeoCoords 
