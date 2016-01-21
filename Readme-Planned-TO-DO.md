@@ -12,9 +12,10 @@ ______________________________________________
 * #150 DDAJOO//Finally Detach Directory-app from Joomlasucks 
 
 ______________________________________________
-* #200 Orderby GeoCoords 
-* #210 N-dim Categories metasystem 
-* #220 Microregions 
+* #200 New A3xa Language-System for Gng and Nti
+* #210 Orderby GeoCoords 
+* #220 N-dim Categories metasystem 
+* #230 Microregions 
 
 ______________________________________________
 * #300 10x enterprises in the database 
