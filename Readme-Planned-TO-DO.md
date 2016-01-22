@@ -8,6 +8,7 @@ ______________________________________________
 * (???) #130 DDAJOO//A3xaAL=A3xa-System-Abstraction-Layer//Mysql + misc php + JS client residual (???)
 * #140 DDAJOO//Migrating-to-LARAVEL-php-framework
 * #150 DDAJOO//Finally Detach Directory-app from Joomlasucks 
+
 (\*)DDAJOO: Detach Directory App From Joomlasucks
 (\*)HDPO: Host=Data Provider Only, Client=Data Caching and View
 (\*)DOP: Data-Operations-Performances
