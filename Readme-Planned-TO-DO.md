@@ -1,15 +1,15 @@
-**** PLANNED TO DO ****
+**** PLANNED - TO DO ****
 a3xa engine customized for avenidaazul.a3xa.com 
-16-jan-2016 **** 
+22-jan-2016 **** 
 ______________________________________________
-(*)DDAJOO: Detach Directory App From Joomlasucks
-
-* #110 Moving-Administrator-Features-From-Host-to-Clientside
-* #111 Trash-php-view-html-old-code
+* #110 HDPO(*)//Moving-Administrator-Reserved-Features-From-Host-to-Clientside
+* #111 HDPO(*)//Trash-php-html-administrator-old-code
 * #120 DDAJOO//A3xaJOO=Joomlasucks-Abstraction-Layer
-* #130 DDAJOO//A3xaAL=A3xa-System-Abstraction-Layer//Mysql + misc php + JS client residual (???)
-* #140 DDAJOO//Migrating-to-Laravel-php-framework
+* (???) #130 DDAJOO//A3xaAL=A3xa-System-Abstraction-Layer//Mysql + misc php + JS client residual (???)
+* #140 DDAJOO//Migrating-to-LARAVEL-php-framework
 * #150 DDAJOO//Finally Detach Directory-app from Joomlasucks 
+(*)DDAJOO: Detach Directory App From Joomlasucks
+(*)HDPO: Host=Data Provider Only, Client=Data Caching and View
 
 ______________________________________________
 * #200 New A3xa Language-System for Gng and Nti
