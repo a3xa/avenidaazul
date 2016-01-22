@@ -2,15 +2,15 @@
 a3xa engine customized for avenidaazul.a3xa.com 
 22-jan-2016 **** 
 ______________________________________________
-* #110 HDPO(*)//Moving-Administrator-Reserved-Features-From-Host-to-Clientside
-* #111 HDPO(*)//Trash-php-html-administrator-old-code
+* #110 HDPO(\*)//Moving-Administrator-Reserved-Features-From-Host-to-Clientside
+* #111 HDPO(\*)//Trash-php-html-administrator-old-code
 * #120 DDAJOO//A3xaJOO=Joomlasucks-Abstraction-Layer
 * (???) #130 DDAJOO//A3xaAL=A3xa-System-Abstraction-Layer//Mysql + misc php + JS client residual (???)
 * #140 DDAJOO//Migrating-to-LARAVEL-php-framework
 * #150 DDAJOO//Finally Detach Directory-app from Joomlasucks 
-(*)DDAJOO: Detach Directory App From Joomlasucks
-(*)HDPO: Host=Data Provider Only, Client=Data Caching and View
-
+(\*)DDAJOO: Detach Directory App From Joomlasucks
+(\*)HDPO: Host=Data Provider Only, Client=Data Caching and View
+(\*)DOP: Data-Operations-Performances
 ______________________________________________
 * #200 New A3xa Language-System for Gng and Nti
 * #210 Orderby GeoCoords 
@@ -22,12 +22,12 @@ ______________________________________________
 
 ______________________________________________
 ______________________________________________
-(*) UNCLOUD: A3xa UNCONVENTIONAL CLOUDING
+(\*) UNCLOUD: A3xa UNCONVENTIONAL CLOUDING
 * #400 A3xaCloud=Start Cloud a3xa-dbms engine 
 * #410 A3xaCloud//Cloud commondb & geodb 
 
 ______________________________________________
-(*) XUNCLOUD: A3xa EXTENDED UNCONVENTIONAL CLOUDING 
+(\*) XUNCLOUD: A3xa EXTENDED UNCONVENTIONAL CLOUDING 
 * #500 A3xaCloud//Cloud Enterprises-db
 Has passed the first draft of feasibility.
 * up to 1000 x 1k = 1Mbytes x microregion
@@ -43,4 +43,4 @@ ______________________________________________
 * #600 Full Local App
 
 ______________________________________________
-(*) DOP: Data-Operations-Performances
+
