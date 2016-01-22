@@ -10,7 +10,9 @@ ______________________________________________
 * #150 DDAJOO//Finally Detach Directory-app from Joomlasucks 
 
 (\*)DDAJOO: Detach Directory App From Joomlasucks
+
 (\*)HDPO: Host=Data Provider Only, Client=Data Caching and View
+
 (\*)DOP: Data-Operations-Performances
 ______________________________________________
 * #200 New A3xa Language-System for Gng and Nti
