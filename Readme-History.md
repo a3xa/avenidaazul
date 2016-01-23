@@ -2,6 +2,10 @@
 a3xa engine customized for avenidaazul.a3xa.com ---
 ***********************************************************************
 ***********************************************************************
+update:2016-01-23//
+FILES:a3xaj-9.38.10.min.js//
+Fix-A3xa-PhotoGallery
+***********************************************************************
 update:2016-01-20//
 FILES:a3xaj-9.37.10.min.js,a3xaj-9.37.10.css//
 DDAJOO(\*)//New-Popup-and-Googlemap-not-joomla-MagnificPopup//
