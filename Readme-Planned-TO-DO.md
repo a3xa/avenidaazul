@@ -1,8 +1,8 @@
 **** PLANNED - TO DO ****
 a3xa engine customized for avenidaazul.a3xa.com 
-22-jan-2016 **** 
+23-jan-2016 **** 
 ______________________________________________
-* #110 HDPO(\*)//Moving-Administrator-Reserved-Features-From-Host-to-Clientside
+
 * #111 HDPO(\*)//Trash-php-html-administrator-old-code
 * #120 DDAJOO//A3xaJOO=Joomlasucks-Abstraction-Layer
 * (???) #130 DDAJOO//A3xaAL=A3xa-System-Abstraction-Layer//Mysql + misc php + JS client residual (???)
