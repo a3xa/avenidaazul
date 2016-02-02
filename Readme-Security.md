@@ -1,5 +1,8 @@
 NOTES ON SECURITY
 
+**************************************
+2016-02-02
+http://caniuse.com/#feat=subresource-integrity
 
 **************************************
 update:2015-12-31
