@@ -2,9 +2,10 @@
 a3xa engine customized for avenidaazul.a3xa.com ---
 ***********************************************************************
 ***********************************************************************
-update:2016-01-24//
-FILES:a3xaj-9.39.10.min.js,a3xajdb-9.39.10-01601241800.min.js//
-G-Area-pataGonia
+update:2016-02-18//
+FILES:a3xaj-9.40.40.min.js,a3xajdb-9.40.40-01602181800.min.js//
+HDPO(\*)//Moving-Administrator-Reserved-Features-From-Host-to-Clientside//
+(\*)HDPO: Host=Data Provider Only, Client=Data Caching and View
 ***********************************************************************
 update:2016-01-23//
 FILES:a3xaj-9.38.10.min.js//
