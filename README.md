@@ -1,9 +1,9 @@
 # avenidaazul
 a3xa engine customized for avenidaazul.a3xa.com ---
 
-24-jan-2016 *** WORK IN PROGRESS ***
+18-feb-2016 *** WORK IN PROGRESS ***
 
-Release 9.40 //HDPO(\*)//Moving-Administrator-Reserved-Features-From-Host-to-Clientside
+Release 9.41//DDAJOO(\*)//Migrating-to-LARAVEL-php-framework
 
-(\*)HDPO: Host=Data Provider Only, Client=Data Caching and View
+(\*)DDAJOO: Detach Directory App from JOOmlasucks
 
