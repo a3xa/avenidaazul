@@ -1,9 +1,10 @@
 # avenidaazul
 a3xa engine customized for avenidaazul.a3xa.com ---
 
-18-feb-2016 *** WORK IN PROGRESS ***
+21-feb-2016 *** WORK IN PROGRESS ***
 
-Release 9.41//DDAJOO(\*)//Migrating-to-LARAVEL-php-framework
+Release 9.41//DDAJOO(\*)//Migration-to-LARAVEL-php-framework//
+Suspended-too-much-useless-complexity-for-a-future-full-javascript-webapp
 
 (\*)DDAJOO: Detach Directory App from JOOmlasucks
 
