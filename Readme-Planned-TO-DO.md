@@ -1,13 +1,39 @@
-**** PLANNED - TO DO ****
-a3xa engine customized for avenidaazul.a3xa.com 
-23-jan-2016 **** 
+23-feb-2016 *** WORK IN PROGRESS ***
+
+Release 9.41//DDAJOO(\*)//Migration-to-LARAVEL-php-framework//
+Suspended-for-too-much-useless-complexity-for-a-planned-full-javascript-webapp-php-frameworks-suck-too-much//
+Try-frameworkless-doityourself-approach-to-detach
+1) Detach Database stubs from joomlasucks. rewrite direct mysqli a3xa php stubs (OK)
+2) Convert misc joomlasucks php stubs to ---> A3xa php stubs
+3) Detach JS from joomlasucks framework html page, rewrite A3xa JS stubs
+4) Unsolved passing PHP Server Session variables from Joomlasucks to A3xa Directory App.
+ To be solved Trashing definitively Joomlasucks.
+5) Directory App Now Runs Standalone except user info login import (JOOMLA SESSION VARIABLES EXPORT ISSUE)
+6) Evaluating Bootstrap css
+(\*)DDAJOO: Detach Directory App from JOOmlasucks
 ______________________________________________
 
-* #111 HDPO(\*)//Trash-php-html-administrator-old-code
-* #120 DDAJOO//A3xaJOO=Joomlasucks-Abstraction-Layer
-* (???) #130 DDAJOO//A3xaAL=A3xa-System-Abstraction-Layer//Mysql + misc php + JS client residual (???)
-* #140 DDAJOO//Migrating-to-LARAVEL-php-framework
-* #150 DDAJOO//Finally Detach Directory-app from Joomlasucks 
+
+
+
+
+
+
+
+
+
+**** PLANNED - TO DO ****
+a3xa engine customized for avenidaazul.a3xa.com 
+______________________________________________
+
+* 160 Milestone - website consolidation: 
+   server data web service mysql+php dbcloud surrogate
+   client JS Jquery html view
+   CDN Common data A3xa Static Data Service
+* 
+* 
+*
+*  
 
 (\*)DDAJOO: Detach Directory App From Joomlasucks
 
