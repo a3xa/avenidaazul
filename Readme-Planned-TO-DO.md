@@ -24,7 +24,7 @@ ______________________________________________
 a3xa engine customized for avenidaazul.a3xa.com 
 ______________________________________________
 
-* 160 Milestone - website consolidation: 
+* 160 Milestone - website established: 
    server data web service mysql+php dbcloud surrogate
    client JS Jquery html view
    CDN Common data A3xa Static Data Service
