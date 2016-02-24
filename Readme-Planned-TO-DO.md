@@ -19,38 +19,36 @@ ______________________________________________
 a3xa engine customized for avenidaazul.a3xa.com 
 ______________________________________________
 
-* 160 Milestone - website established: 
-   server data web service mysql+php dbcloud surrogate
-   client JS Jquery html view
-   CDN Common data A3xa Static Data Service
-* 
-* 
-*
-*  
-
-(\*)DDAJOO: Detach Directory App From Joomlasucks
-
-(\*)HDPO: Host=Data Provider Only, Client=Data Caching and View
-
-(\*)DOP: Data-Operations-Performances
+* #200 SDJOO(\*)//Migrating-Overview-Html-Pages-to-A3xa-Bootstrap-Website 
+* #220 SDJOO(\*)//New A3xa Language-System for Gng and Nti
+* #240 SDJOO(\*)//Migrating-Top-Web20-banner-to-A3xa-Bootstrap-Website 
+* #260 SDJOO(\*)//Migrating-User-Login-and-management-to-A3xa-Bootstrap-Website 
+* #280 SDJOO(\*)//Finally-ShutDown-Joomlasucks-definitely-and-forever 
 ______________________________________________
-* #200 New A3xa Language-System for Gng and Nti
-* #210 Orderby GeoCoords 
-* #220 N-dim Categories metasystem 
-* #230 Microregions 
+
+* 400 Milestone - website established: 
+   a) server data web service mysql+php dbcloud surrogate
+   b) client CDN JS Jquery html view
+   c) CDN Common data A3xa Static Data Service
 
 ______________________________________________
-* #300 10x enterprises in the database 
+
+* #510 Orderby GeoCoords 
+* #520 N-dim Categories metasystem 
+* #530 Microregions 
+
+______________________________________________
+* #600 10x enterprises in the database 
 
 ______________________________________________
 ______________________________________________
 (\*) UNCLOUD: A3xa UNCONVENTIONAL CLOUDING
-* #400 A3xaCloud=Start Cloud a3xa-dbms engine 
-* #410 A3xaCloud//Cloud commondb & geodb 
+* #700 A3xaCloud=Start Cloud a3xa-dbms engine 
+* #710 A3xaCloud//Cloud commondb & geodb 
 
 ______________________________________________
 (\*) XUNCLOUD: A3xa EXTENDED UNCONVENTIONAL CLOUDING 
-* #500 A3xaCloud//Cloud Enterprises-db
+* #800 A3xaCloud//Cloud Enterprises-db
 Has passed the first draft of feasibility.
 * up to 1000 x 1k = 1Mbytes x microregion
 * up to 10000 x 1k = 10Mb x each region
@@ -62,7 +60,14 @@ Has passed the first draft of feasibility.
 * search operations availables only by google
 ______________________________________________
 
-* #600 Full Local App
+* #900 Full Local App
 
 ______________________________________________
 
+(\*)DDAJOO: Detach Directory App From Joomlasucks
+
+(\*)SDJOO: ShutDown Joomlasucks 
+
+(\*)HDPO: Host=Data Provider Only, Client=Data Caching and View
+
+(\*)DOP: Data-Operations-Performances
