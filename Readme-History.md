@@ -3,6 +3,9 @@ a3xa engine customized for avenidaazul.a3xa.com ---
 ***********************************************************************
 ***********************************************************************
 update:2016-02-24//
+Release 9.42.01//DDAJOO(*)//Including-Bootstrap-css
+***********************************************************************
+update:2016-02-24//
 Release 9.41//DDAJOO(\*)//Detach-Directory-App-From-Joomlasucks
 ** INTERNAL DEVELOPMENT VERSION NOT PUBLISHED **
 1) Done - Detach Database stubs from joomlasucks. rewrite direct mysqli a3xa php stubs
