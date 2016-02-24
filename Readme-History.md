@@ -2,6 +2,17 @@
 a3xa engine customized for avenidaazul.a3xa.com ---
 ***********************************************************************
 ***********************************************************************
+update:2016-02-24//
+Release 9.41//DDAJOO(\*)//Detach-Directory-App-From-Joomlasucks
+** INTERNAL DEVELOPMENT VERSION NOT PUBLISHED **
+1) Done - Detach Database stubs from joomlasucks. rewrite direct mysqli a3xa php stubs
+2) Done - Convert misc joomlasucks php stubs to ---> A3xa php stubs
+3) Done - Detach JS from joomlasucks framework html page, rewrite A3xa JS stubs
+4) ISSUE:JOOMLA SESSION VARIABLES EXPORT - 
+Unsolved EXPORT PHP Server Session variables from Joomlasucks to A3xa Directory App.
+To be solved Trashing definitively Joomlasucks.
+5) Considered Done: Directory App Now Runs Standalone except for "user info login server session import"
+***********************************************************************
 update:2016-02-18//
 FILES:a3xaj-9.40.40.min.js,a3xajdb-9.40.40-01602181800.min.js//
 HDPO(\*)//Moving-Administrator-Reserved-Features-From-Host-to-Clientside//
