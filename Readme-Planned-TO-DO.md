@@ -22,9 +22,9 @@ ______________________________________________
 * #280 SDJOO(\*)//Finally-ShutDown-Joomlasucks-definitely-and-forever 
 ______________________________________________
 
-* 400 Milestone - website established: 
+* 400 Milestone RELEASE 10.0.0 - A3xa website established: 
    a) server data web service mysql+php dbcloud surrogate
-   b) client CDN JS Jquery html view
+   b) client CDN JS Jquery Bootstrap html view
    c) CDN Common data A3xa Static Data Service
 
 ______________________________________________
