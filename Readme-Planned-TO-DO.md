@@ -1,13 +1,8 @@
-23-feb-2016 *** WORK IN PROGRESS ***
+24-feb-2016 *** WORK IN PROGRESS ***
 
-Release 9.41//DDAJOO(\*)//php-frameworks-suck-too-much//Detach-by-frameworkless-doityourself-approach
-1) Detach Database stubs from joomlasucks. rewrite direct mysqli a3xa php stubs (Done)
-2) Convert misc joomlasucks php stubs to ---> A3xa php stubs (Done)
-3) Detach JS from joomlasucks framework html page, rewrite A3xa JS stubs (Done)
-4) Unsolved passing PHP Server Session variables from Joomlasucks to A3xa Directory App.
- To be solved Trashing definitively Joomlasucks. (ISSUE)
-5) Directory App Now Runs Standalone except user info login import (JOOMLA SESSION VARIABLES EXPORT ISSUE) (Done)
-6) Evaluating Bootstrap css (Workinprogress)
+
+Internal Release 9.42//DDAJOO(\*)//Introducing Bootstrap css (Workinprogress)
+
 (\*)DDAJOO: Detach Directory App from JOOmlasucks
 ______________________________________________
 
