@@ -1,12 +1,9 @@
 24-feb-2016 *** WORK IN PROGRESS ***
 
 
-Internal Release 9.42//DDAJOO(\*)//Introducing Bootstrap css (Workinprogress)
+Release 9.43//SDJOO(\*)//Migrating-Overview-Html-Pages-to-A3xa-Bootstrap-Website
 
-(\*)DDAJOO: Detach Directory App from JOOmlasucks
 ______________________________________________
-
-
 
 
 
@@ -19,10 +16,9 @@ ______________________________________________
 a3xa engine customized for avenidaazul.a3xa.com 
 ______________________________________________
 
-* #200 SDJOO(\*)//Migrating-Overview-Html-Pages-to-A3xa-Bootstrap-Website 
 * #220 SDJOO(\*)//New A3xa Language-System for Gng and Nti
-* #240 SDJOO(\*)//Migrating-Top-Web20-banner-to-A3xa-Bootstrap-Website 
-* #260 SDJOO(\*)//Migrating-User-Login-and-management-to-A3xa-Bootstrap-Website 
+* #240 SDJOO(\*)//Migrating-User-Login-and-management-to-A3xa-Bootstrap-Website 
+* #260 SDJOO(\*)//Migrating-Top-Web20-banner-to-A3xa-Bootstrap-Website 
 * #280 SDJOO(\*)//Finally-ShutDown-Joomlasucks-definitely-and-forever 
 ______________________________________________
 
