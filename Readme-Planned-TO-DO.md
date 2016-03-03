@@ -2,7 +2,7 @@
 
 
 Release 9.43//SDJOO(\*)//Migrating-to-A3xa-Bootstrap-Website//
-03-mar-2016-Last-Step-Before-Release//Building-essential-decent-bootstrap-template
+03-mar-2016-Last-Step-Before-Release//Building-essential-decent-bootstrap-layout
 ______________________________________________
 
 
