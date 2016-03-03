@@ -28,6 +28,7 @@ ______________________________________________
 * #520 N-dim Categories metasystem 
 * #530 Microregions 
 * #540 New A3xa Language-System for Gng and Nti
+
 ______________________________________________
 * #600 10x enterprises in the database 
 
