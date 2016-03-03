@@ -1,8 +1,8 @@
-24-feb-2016 *** WORK IN PROGRESS ***
+03-mar-2016 *** WORK IN PROGRESS ***
 
 
 Release 9.43//SDJOO(\*)//Migrating-Overview-Html-Pages-to-A3xa-Bootstrap-Website
-
+//03-mar-2016-Last-Step-Before-Release//Building-essential-decent-bootstrap-template
 ______________________________________________
 
 
@@ -14,13 +14,7 @@ ______________________________________________
 
 **** PLANNED - TO DO ****
 a3xa engine customized for avenidaazul.a3xa.com 
-______________________________________________
 
-* #220 SDJOO(\*)//New A3xa Language-System for Gng and Nti
-* #240 SDJOO(\*)//Migrating-User-Login-and-management-to-A3xa-Bootstrap-Website 
-* #260 SDJOO(\*)//Migrating-Top-Web20-banner-to-A3xa-Bootstrap-Website 
-* #280 SDJOO(\*)//Finally-ShutDown-Joomlasucks-definitely-and-forever 
-* 
 ______________________________________________
 
 * 400 Milestone RELEASE 10.0.0 - A3xa website established: 
@@ -33,7 +27,7 @@ ______________________________________________
 * #510 Orderby GeoCoords 
 * #520 N-dim Categories metasystem 
 * #530 Microregions 
-
+* #540 New A3xa Language-System for Gng and Nti
 ______________________________________________
 * #600 10x enterprises in the database 
 
