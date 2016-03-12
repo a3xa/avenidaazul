@@ -1,9 +1,14 @@
+*************************************************
+*************************************************
+*************************************************
 03-mar-2016 *** WORK IN PROGRESS ***
 
 
-Release 9.43//SDJOO(\*)//Migrating-to-A3xa-Bootstrap-Website//
-03-mar-2016-Last-Step-Before-Release//Building-essential-decent-bootstrap-layout
+Release 10.000.xxx//MILESTONE(\*)//Sitemap-Built-On-ClientPC-By-Javascript-Engine
 ______________________________________________
+*************************************************
+*************************************************
+*************************************************
 
 
 
@@ -11,16 +16,12 @@ ______________________________________________
 
 
 
-
+*************************************************
+*************************************************
+*************************************************
 **** PLANNED - TO DO ****
 a3xa engine customized for avenidaazul.a3xa.com 
 
-______________________________________________
-
-* 400 Milestone RELEASE 10.0.0 - A3xa website established: 
-   a) server data web service mysql+php dbcloud surrogate
-   b) client CDN JS Jquery Bootstrap html view
-   c) CDN Common data A3xa Static Data Service
 
 ______________________________________________
 
@@ -55,6 +56,23 @@ ______________________________________________
 * #900 Full Local App
 
 ______________________________________________
+*************************************************
+*************************************************
+*************************************************
+
+
+
+
+
+
+*************************************************
+*************************************************
+*************************************************
+
+(\*)MILESTONE: A3xa website established: 
+   a) server data web service mysql+php dbcloud surrogate
+   b) client CDN JS Jquery Bootstrap html view
+   c) CDN Common data A3xa Static Data Service
 
 (\*)DDAJOO: Detach Directory App From Joomlasucks
 
