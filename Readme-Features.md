@@ -15,7 +15,6 @@ ______________________________________________
 
 ******* TECH FEATURES ********
 * eXtended Url unified Request Compact Code parameter (XURCC) for queries + description blind parameter
-* JSON ASYNCHRONOUS INDEXEDDB, LOCAL-STORAGE, SESSION-STORAGE, FLY-STORAGE  for TURBO 
 * CDN Sprite Icons
 * CDN Contents Delivery Network JS A3xa Engine
 * CDN Static A3xa Common-data and Geo Database
@@ -32,6 +31,7 @@ ______________________________________________
 * JS Plugins: MagnificPopup - https://cdnjs.cloudflare.com/ajax/libs/magnific-popup.js/1.0.1/jquery.magnific-popup.min.js
 * Framework: Introducing twitter-bootstrap-css ver 3.x.x
 * NOT using any sucking framework on server side.
+* JSON ASYNCHRONOUS INDEXEDDB, LOCAL-STORAGE, SESSION-STORAGE, FLY-STORAGE  for TURBO 
 
 
 
