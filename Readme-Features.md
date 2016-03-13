@@ -28,8 +28,8 @@ ______________________________________________
 
 ******* ASSETS ********
 * Languages: JS ECMASCRIPT 5, PHP, MYSQLi, Innodb
-* Libraries: JQuery SRI - https://code.jquery.com/jquery-2.x.x.min.js
-* JS Plugins SRI: MagnificPopup - https://cdnjs.cloudflare.com/ajax/libs/magnific-popup.js/1.0.1/jquery.magnific-popup.min.js
+* Libraries: JQuery - https://code.jquery.com/jquery-2.x.x.min.js
+* JS Plugins: MagnificPopup - https://cdnjs.cloudflare.com/ajax/libs/magnific-popup.js/1.0.1/jquery.magnific-popup.min.js
 * Framework: Introducing twitter-bootstrap-css ver 3.x.x
 * NOT using any sucking framework on server side.
 
