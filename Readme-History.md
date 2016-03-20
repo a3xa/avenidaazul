@@ -3,13 +3,16 @@ a3xa engine customized for avenidaazul.a3xa.com ---
 ***********************************************************************
 ***********************************************************************
 update:2016-03-20//
-Release 10.00.31//MILESTONE(*)//Added-2-Regions-Cuba
+Release 10.00.35//MILESTONE(\*)//Added-2-Regions-Belize
+***********************************************************************
+update:2016-03-20//
+Release 10.00.31//MILESTONE(\*)//Added-2-Regions-Cuba
 ***********************************************************************
 update:2016-03-19//
-Release 10.00.25//MILESTONE(*)//Sitemap-Revised-Inca-Tropical
+Release 10.00.25//MILESTONE(\*)//Sitemap-Revised-Inca-Tropical
 ***********************************************************************
 update:2016-03-18//
-Internal-Release 10.00.20//MILESTONE(*)//Sitemap-Revised
+Internal-Release 10.00.20//MILESTONE(\*)//Sitemap-Revised
 ***********************************************************************
 update:2016-03-12//
 Release 9.43.20//SDJOO(\*)//Shutdown-Joomla-bootstrap-css-simple-raw-template//Fixes
