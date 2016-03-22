@@ -1,12 +1,14 @@
 *************************************************
 *************************************************
 *************************************************
-19-mar-2016 *** WORK IN PROGRESS ***
+22-mar-2016 *** WORK IN PROGRESS ***
 
 
-Release 10.00.xx//MILESTONE(\*)//New-Regions
+Release 10.01.xx//MILESTONE-1(\*)//Drop-mysql-dead-static-common-tables
 
-Release 10.00.xx//MILESTONE(\*)//Sitemap-Built-On-ClientPC-By-Javascript-Engine
+Release 10.02.xx//MILESTONE-2(\*)//New-Regions
+
+Release 10.03.xx//MILESTONE-3(\*)//Sitemap-Built-On-ClientPC-By-Javascript-Engine
 ______________________________________________
 *************************************************
 *************************************************
