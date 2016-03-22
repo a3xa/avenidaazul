@@ -3,7 +3,7 @@ a3xa engine customized for avenidaazul.a3xa.com ---
 ***********************************************************************
 ***********************************************************************
 update:2016-03-22//
-Release 10.00.45//MILESTONE(\*)//Montevideo-Region
+Release 10.00.46//MILESTONE(\*)//Montevideo-Region
 ***********************************************************************
 update:2016-03-21//
 Release 10.00.40//MILESTONE(\*)//Valparaiso-Region
