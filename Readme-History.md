@@ -6,6 +6,8 @@ update:2016-03-28//
 Release-10.02.10//MILESTONE-2//South-East-Regions
 
 Release-10.02.15//MILESTONE-2//Change-Directory
+
+Release-10.02.20//MILESTONE-2//Roo-Mex-Regions
 ***********************************************************************
 update:2016-03-24//
 Release-10.01.05//MILESTONE-1//Drop-mysql-dead-static-common-tables
