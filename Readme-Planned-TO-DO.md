@@ -1,14 +1,10 @@
 *************************************************
 *************************************************
 *************************************************
-22-mar-2016 *** WORK IN PROGRESS ***
+28-mar-2016 *** WORK IN PROGRESS ***
 
+Release 10.02.xx//MILESTONE-2//New-Regions
 
-Release 10.01.xx//MILESTONE-1(\*)//Drop-mysql-dead-static-common-tables
-
-Release 10.02.xx//MILESTONE-2(\*)//New-Regions
-
-Release 10.03.xx//MILESTONE-3(\*)//Sitemap-Built-On-ClientPC-By-Javascript-Engine
 ______________________________________________
 *************************************************
 *************************************************
@@ -33,9 +29,10 @@ ______________________________________________
 * #520 N-dim Categories metasystem 
 * #530 Microregions 
 * #540 New A3xa Language-System for Gng and Nti
+* #550 [Delayed] Sitemap-Surrogate-Built-On-ClientPC-By-Javascript-Engine
 
 ______________________________________________
-* #600 10x enterprises in the database 
+* #600 increase by 10 #of enterprises in the database 
 
 ______________________________________________
 ______________________________________________
