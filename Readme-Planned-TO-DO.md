@@ -1,7 +1,7 @@
 *************************************************
 *************************************************
 *************************************************
-28-mar-2016 *** WORK IN PROGRESS ***
+29-mar-2016 *** WORK IN PROGRESS ***
 
 Release 10.02.xx//MILESTONE-2//New-Regions
 
@@ -29,7 +29,7 @@ ______________________________________________
 * #520 N-dim Categories metasystem 
 * #530 Microregions 
 * #540 New A3xa Language-System for Gng and Nti
-* #550 [Delayed] Sitemap-Surrogate-Built-On-ClientPC-By-Javascript-Engine
+* #550 [Delayed] SitemapXml-Javascript-Administrator-s-Only-Batch-Procedure
 
 ______________________________________________
 * #600 increase by 10 #of enterprises in the database 
