@@ -25,6 +25,11 @@ a3xa engine customized for avenidaazul.a3xa.com
 
 ______________________________________________
 
+* #400 SCORING//Scoring System mng
+* #410 Enterprises EInfo table mng, Summary mng, 
+
+______________________________________________
+
 * #510 Orderby GeoCoords 
 * #520 N-dim Categories metasystem 
 * #530 Microregions 
