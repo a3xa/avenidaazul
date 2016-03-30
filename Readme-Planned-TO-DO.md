@@ -1,9 +1,9 @@
 *************************************************
 *************************************************
 *************************************************
-29-mar-2016 *** WORK IN PROGRESS ***
+30-mar-2016 *** WORK IN PROGRESS ***
 
-Release 10.02.xx//MILESTONE-2//New-Regions
+Release 10.03.xx//DbEnterprises-Revision
 
 ______________________________________________
 *************************************************
@@ -35,7 +35,7 @@ ______________________________________________
 * #530 Microregions 
 * #540 New A3xa Language-System for Gng and Nti
 * #550 [Delayed] SitemapXml-Javascript-Administrator-s-Only-Batch-Procedure
-
+* #560 [Delayed] New-Regions
 ______________________________________________
 * #600 increase by 10 #of enterprises in the database 
 
