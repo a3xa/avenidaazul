@@ -1,9 +1,10 @@
 *************************************************
 *************************************************
 *************************************************
-30-mar-2016 *** WORK IN PROGRESS ***
+04-apr-2016 *** WORK IN PROGRESS ***
 
-Release 10.03.xx//DbEnterprises-Revision
+Release 10.03.xx//SCORING//DbSummary-Revision
+Release 10.03.xx//SCORING//DbEnterprises-Revision
 
 ______________________________________________
 *************************************************
@@ -25,7 +26,7 @@ a3xa engine customized for avenidaazul.a3xa.com
 
 ______________________________________________
 
-* #400 SCORING//Scoring System mng
+
 * #410 Enterprises EInfo table mng, Summary mng, 
 
 ______________________________________________
@@ -34,9 +35,10 @@ ______________________________________________
 * #520 N-dim Categories metasystem 
 * #530 Microregions 
 * #540 New A3xa Language-System for Gng and Nti
-* #550 [Delayed] SitemapXml-Javascript-Administrator-s-Only-Batch-Procedure
+* #550 [Delayed] SitemapXml-Javascript-Administrator-s-Batch-Procedure
 * #560 [Delayed] New-Regions
 ______________________________________________
+
 * #600 increase by 10 #of enterprises in the database 
 
 ______________________________________________
