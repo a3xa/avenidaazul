@@ -3,7 +3,13 @@
 *************************************************
 04-apr-2016 *** WORK IN PROGRESS ***
 
-Release 10.03.xx//SCORING//DbSummary-Revision
+Release 10.03.xx//SCORING//DbSummary-Revision-new-dbtable
+
+Release 10.03.xx//SCORING//Scoring-totals-included-in-summary-server-side
+
+Release 10.03.xx//SCORING//Scoring-moved-to-client-side
+
+Release 10.03.xx//SCORING//Remove-Scoring-Server-Side
 
 Release 10.03.xx//SCORING//DbEnterprises-Revision
 
