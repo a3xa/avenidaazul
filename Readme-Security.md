@@ -1,6 +1,12 @@
 NOTES ON SECURITY
 
 **************************************
+2016-04-04 
+sritest.io 
+http://avenidaazul.a3xa.com/es/home
+https://sritest.io/#report/a4e70baa-6f07-423b-8d98-7b0722a86c11
+
+**************************************
 2016-02-02
 http://caniuse.com/#feat=subresource-integrity
 
