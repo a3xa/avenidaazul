@@ -11,6 +11,10 @@ Release 10.03.xx//SCORING//Scoring-moved-to-client-side
 
 Release 10.03.xx//SCORING//Remove-Scoring-Server-Side
 
+Release 10.03.xx//SCORING//Javascript-Dynamically-built-on-client-common-geo-dynamic-tables
+
+Release 10.03.xx//SCORING//Drop-common-geo-dynamic-mysql-dbtable
+
 Release 10.03.xx//SCORING//DbEnterprises-Revision
 
 ______________________________________________
