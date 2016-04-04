@@ -4,6 +4,7 @@
 04-apr-2016 *** WORK IN PROGRESS ***
 
 Release 10.03.xx//SCORING//DbSummary-Revision
+
 Release 10.03.xx//SCORING//DbEnterprises-Revision
 
 ______________________________________________
