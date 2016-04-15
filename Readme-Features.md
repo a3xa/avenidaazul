@@ -19,7 +19,10 @@ ______________________________________________
 * CDN Contents Delivery Network JS A3xa Engine
 * CDN Static A3xa Common-data and Geo Database
 * SECURITY: JS SRI SUBRESOURCE INTEGRITY  SHA384 (FIREFOX 43, not tested on chrome)
-* SECURITY: JS changing coding style by crockford's classless prototypeless guidelines and java-style/C++COM interfaces
+* SECURITY: JS changing coding style by crockford's classless prototypeless guidelines
+* (\*)SECURITY wishes: it would be nice to check also the integrity of html pages, or to use cheap SSL
+* JS coding style: MIX Legacy prototypeless wide use of "this" and "new" + crockford's classless prototypeless + Interfaces-java-style-or-C++COM
+* PHP simple a3xa data-service engine + temporary minimum html generated on server side
 * MIX HOST MYSQL + LOCAL JS SUMMARY and STATISTICS
 * HOST MYSQL Enterprises and Dynamic Contents Database
 * MIX JSON Data Exchange and Storage + A3xa XML old format (\*) to be replaced by JSON
