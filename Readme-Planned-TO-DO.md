@@ -3,14 +3,6 @@
 *************************************************
 15-apr-2016 *** WORK IN PROGRESS ***
 
-Release 10.03.xx//SCORING-1//DbSummary-Revision-new-dbtable
-
-Release 10.03.xx//SCORING-1//Javascript-Dynamically-built-on-client-common-geo-dynamic-tables
-
-Release 10.03.xx//SCORING-1//Drop-common-geo-dynamic-mysql-dbtable
-
-Release 10.03.xx//SCORING-1//Scoring-totals-included-in-summary-server-side
-
 Release 10.03.xx//SCORING-2//Scoring-moved-to-client-side
 
 Release 10.03.xx//SCORING-2//Remove-Scoring-Server-Side
