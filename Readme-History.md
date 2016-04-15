@@ -2,6 +2,9 @@
 a3xa engine customized for avenidaazul.a3xa.com ---
 ***********************************************************************
 ***********************************************************************
+update:2016-04-15//
+Release 10.03.25//SCORING-1//Revised-Summary-and-Suppression-of-Server-Dynamic-Common-Tables
+***********************************************************************
 update:2016-03-28//
 Release-10.02.10//MILESTONE-2//South-East-Regions
 
