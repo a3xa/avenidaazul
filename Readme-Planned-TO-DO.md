@@ -1,13 +1,13 @@
 *************************************************
 *************************************************
 *************************************************
-15-apr-2016 *** WORK IN PROGRESS ***
+18-apr-2016 *** WORK IN PROGRESS ***
 
-Release 10.03.xx//SCORING-2//Scoring-moved-to-client-side
+Release 10.05.xx//SCORING-3//Scoring-moved-to-client-side
 
-Release 10.03.xx//SCORING-2//Remove-Scoring-Server-Side
+Release 10.05.xx//SCORING-3//Remove-Scoring-Server-Side
 
-Release 10.03.xx//SCORING//DbEnterprises-Revision
+Release 10.05.xx//SCORING//DbEnterprises-Revision
 
 ______________________________________________
 *************************************************
