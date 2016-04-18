@@ -2,6 +2,10 @@
 a3xa engine customized for avenidaazul.a3xa.com ---
 ***********************************************************************
 ***********************************************************************
+update:2016-04-18//
+Release 10.04.10//SCORING-2//Revised-Server-Side-php-mysql
+//NOFILES
+***********************************************************************
 update:2016-04-15//
 Release 10.03.25//SCORING-1//Revised-Summary-and-Suppression-of-Server-Dynamic-Common-Tables
 //DbSummary-Revision-new-dbtable
