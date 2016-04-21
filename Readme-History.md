@@ -2,6 +2,9 @@
 a3xa engine customized for avenidaazul.a3xa.com ---
 ***********************************************************************
 ***********************************************************************
+update:2016-04-21//
+Release 10.05.05//SCORING-3//Urgent-fixes-encodeurl
+***********************************************************************
 update:2016-04-18//
 Release 10.04.10//SCORING-2//Revised-Server-Side-php-mysql
 //NOFILES
