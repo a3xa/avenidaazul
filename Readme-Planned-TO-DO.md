@@ -1,11 +1,8 @@
 *************************************************
 *************************************************
 *************************************************
-18-apr-2016 *** WORK IN PROGRESS ***
+13-mag-2016 *** WORK IN PROGRESS ***
 
-Release 10.05.xx//SCORING-3//Scoring-moved-to-client-side
-
-Release 10.05.xx//SCORING-3//Remove-Scoring-Server-Side
 
 Release 10.05.xx//SCORING//DbEnterprises-Revision
 
@@ -85,9 +82,6 @@ ______________________________________________
    b) client CDN JS Jquery Bootstrap html view
    c) CDN Common data A3xa Static Data Service
 
-(\*)DDAJOO: Detach Directory App From Joomlasucks
-
-(\*)SDJOO: ShutDown Joomlasucks 
 
 (\*)HDPO: Host=Data Provider Only, Client=Data Caching and View
 
