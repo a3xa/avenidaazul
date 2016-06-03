@@ -49,17 +49,20 @@ ______________________________________________
 * #540 New A3xa Language-System for Gng and Nti
 * #550 [Delayed] SitemapXml-Javascript-Administrator-s-Batch-Procedure
 * #560 [Delayed] New-Regions
+* 
 ______________________________________________
 
 * #600 increase by 10 #of enterprises in the database 
 
 ______________________________________________
 ______________________________________________
+
 (\*) UNCLOUD: A3xa UNCONVENTIONAL CLOUDING
 * #700 A3xaCloud=Start Cloud a3xa-dbms engine 
 * #710 A3xaCloud//Cloud commondb & geodb 
 
 ______________________________________________
+
 (\*) XUNCLOUD: A3xa EXTENDED UNCONVENTIONAL CLOUDING 
 * #800 A3xaCloud//Cloud Enterprises-db
 Has passed the first draft of feasibility.
@@ -71,6 +74,7 @@ Has passed the first draft of feasibility.
 * Real-time Statistic and Summaries
 * Dynamic db operations
 * search operations availables only by google
+
 ______________________________________________
 
 * #900 Full Local App
