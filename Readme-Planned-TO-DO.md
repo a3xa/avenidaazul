@@ -4,7 +4,7 @@
 13-mag-2016 *** WORK IN PROGRESS ***
 
 
-Release 10.06.xx//SPLIT-SUBSIDIARY//DbEnterprises-Revision
+Release 10.06.xx//SPLIT-SUBSIDIARY(\*)//DbEnterprises-Revision
 
 * Introducing SHIM-ES6 "map and set collection", "promises"
 Reference
@@ -17,6 +17,7 @@ http://www.html5rocks.com/en/tutorials/es6/promises/
 https://developer.mozilla.org/en/docs/Web/JavaScript/Reference/Global_Objects/Promise
 https://github.com/getify/You-Dont-Know-JS/blob/master/async%20&%20performance/ch3.md
 ______________________________________________
+
 *************************************************
 *************************************************
 *************************************************
