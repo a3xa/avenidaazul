@@ -1,20 +1,29 @@
 *************************************************
 *************************************************
 *************************************************
-13-mag-2016 *** WORK IN PROGRESS ***
+03-jun-2016 *** WORK IN PROGRESS ***
 
 
 Release 10.06.xx//SPLIT-SUBSIDIARY(\*)//DbEnterprises-Revision
 
 * Introducing SHIM-ES6 "map and set collection", "promises"
+
 Reference
+
 https://cdnjs.cloudflare.com/ajax/libs/es6-shim/0.35.1/es6-shim.min.js
+
 https://github.com/paulmillr/es6-shim
+
 https://github.com/es-shims/es6-shim/
+
 https://github.com/es-shims/
+
 Tutorials
+
 http://www.html5rocks.com/en/tutorials/es6/promises/
+
 https://developer.mozilla.org/en/docs/Web/JavaScript/Reference/Global_Objects/Promise
+
 https://github.com/getify/You-Dont-Know-JS/blob/master/async%20&%20performance/ch3.md
 
 ______________________________________________
@@ -33,6 +42,7 @@ ______________________________________________
 *************************************************
 *************************************************
 **** PLANNED - TO DO ****
+
 a3xa engine customized for avenidaazul.a3xa.com 
 
 
@@ -51,6 +61,7 @@ ______________________________________________
 * #560 [Delayed] New-Regions
 * 
 ______________________________________________
+
 
 * #600 increase by 10 #of enterprises in the database 
 
