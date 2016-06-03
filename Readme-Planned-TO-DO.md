@@ -16,6 +16,7 @@ Tutorials
 http://www.html5rocks.com/en/tutorials/es6/promises/
 https://developer.mozilla.org/en/docs/Web/JavaScript/Reference/Global_Objects/Promise
 https://github.com/getify/You-Dont-Know-JS/blob/master/async%20&%20performance/ch3.md
+
 ______________________________________________
 
 *************************************************
