@@ -32,10 +32,32 @@ ______________________________________________
 ******* ASSETS ********
 * Languages: JS ECMASCRIPT 5, PHP latest, MYSQLi Innodb
 * Libraries: JQuery 2 - https://code.jquery.com/jquery-2.x.x.min.js
+* Libraries: SHIM-ES6(\*) (promises+maps+set) - https://cdnjs.cloudflare.com/ajax/libs/es6-shim/0.35.1/es6-shim.min.js
 * JS Plugins: MagnificPopup (to be replaced by A3xaPopup) - https://cdnjs.cloudflare.com/ajax/libs/magnific-popup.js/1.0.1/jquery.magnific-popup.min.js
 * Framework: Introducing twitter-bootstrap-css ver 3.x.x
 * PHP Framework: NONE - NOT using any sucking useless framework for assholes on server side.
-* JSON Asynchronous INDEXEDDB, Sync LOCAL-STORAGE, Sync SESSION-STORAGE, Syn FLY-STORAGE  for TURBO 
+* JSON Asynchronous INDEXEDDB, Sync LOCAL-STORAGE, Sync SESSION-STORAGE, Sync FLY-STORAGE  for TURBO 
+
+
+******* REFERENCES and TUTORIALS ********
+
+
+SHIM-ES6
+"map and set collection", "promises"
+LIB
+* https://cdnjs.cloudflare.com/ajax/libs/es6-shim/0.35.1/es6-shim.min.js
+* https://github.com/paulmillr/es6-shim
+* https://github.com/es-shims/es6-shim/
+* https://github.com/es-shims/
+
+TUTORIALS
+* http://www.html5rocks.com/en/tutorials/es6/promises/
+* https://developer.mozilla.org/en/docs/Web/JavaScript/Reference/Global_Objects/Promise
+* https://github.com/getify/You-Dont-Know-JS/blob/master/async%20&%20performance/ch3.md
+
+******* ******* ******* ******* ******* ******* *******
+
+
 
 
 
