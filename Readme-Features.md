@@ -1,6 +1,6 @@
 **** CURRENT ENGINE FEATURES STATUS ****
 a3xa engine customized for avenidaazul.a3xa.com 
-15-apr-2016 **** 
+04-jun-2016 **** 
 ______________________________________________
 
 ******* USER FEATURES ********
@@ -54,6 +54,15 @@ TUTORIALS
 * http://www.html5rocks.com/en/tutorials/es6/promises/
 * https://developer.mozilla.org/en/docs/Web/JavaScript/Reference/Global_Objects/Promise
 * https://github.com/getify/You-Dont-Know-JS/blob/master/async%20&%20performance/ch3.md
+
+DO NOT FORGET html5 features currently available
+
+• WebSocket + Server Socket Event (SSE)
+• WebWorker, Shared Worker + Service Worker: multithreading
+• Geolocation: client geo location (now I know Zion location)
+• Push Notifications:
+• Fetch: New Ajax API to replace XMLHttpRequest
+• FileSystem: r/w files in the sandbox
 
 ******* ******* ******* ******* ******* ******* *******
 
