@@ -58,10 +58,15 @@ TUTORIALS
 DO NOT FORGET html5 features currently available
 
 • WebSocket + Server Socket Event (SSE)
+
 • WebWorker, Shared Worker + Service Worker: multithreading
+
 • Geolocation: client geo location (now I know Zion location)
+
 • Push Notifications:
+
 • Fetch: New Ajax API to replace XMLHttpRequest
+
 • FileSystem: r/w files in the sandbox
 
 ******* ******* ******* ******* ******* ******* *******
