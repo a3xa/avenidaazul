@@ -75,6 +75,14 @@ DO NOT FORGET html5 features currently available
 
 • FileSystem: r/w files in the sandbox
 
+• App Cache for offline browsing
+
+• Drag-and-Drop
+
+• Server-Sent Events - One Way Messaging...... http://caniuse.com/#feat=channel-messaging
+
+• ....
+
 ******* ******* ******* ******* ******* ******* *******
 
 
