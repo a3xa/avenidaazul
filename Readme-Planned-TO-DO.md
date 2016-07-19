@@ -8,11 +8,6 @@ Release 10.06.xx//SPLIT-SUBSIDIARY(\*)//DbEnterprises-Revision
 
 * Introducing SHIM-ES6 "map and set collection", "promises"
 
-*************************************************
-*************************************************
-*************************************************
-
-
 
 
 
@@ -45,30 +40,6 @@ ______________________________________________
 
 * #600 increase by 10 #of enterprises in the database 
 
-______________________________________________
-______________________________________________
-
-(\*) UNCLOUD: A3xa UNCONVENTIONAL CLOUDING
-* #700 A3xaCloud=Start Cloud a3xa-dbms engine 
-* #710 A3xaCloud//Cloud commondb & geodb 
-
-______________________________________________
-
-(\*) XUNCLOUD: A3xa EXTENDED UNCONVENTIONAL CLOUDING 
-* #800 A3xaCloud//Cloud Enterprises-db
-Has passed the first draft of feasibility.
-* up to 1000 x 1k = 1Mbytes x microregion
-* up to 10000 x 1k = 10Mb x each region
-* up to 1000 regions
-* up to 10.000 x 1000 regions = 10M records 
-* up to 10M x 1k = 10 Gb enterprises-db  
-* Real-time Statistic and Summaries
-* Dynamic db operations
-* search operations availables only by google
-
-______________________________________________
-
-* #900 Full Local App
 
 ______________________________________________
 *************************************************
