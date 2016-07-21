@@ -4,6 +4,7 @@ a3xa engine customized for avenidaazul.a3xa.com ---
 ***********************************************************************
 update:2016-07-22//
 Release 10.08.30//TBSLICES
+Introducing SHIM-ES6 "map-set collection, promises"
 ***********************************************************************
 update:2016-05-13//
 Release 10.05.35//SCORING-3//score-manager
