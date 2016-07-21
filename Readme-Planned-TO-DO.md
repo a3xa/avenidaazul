@@ -1,14 +1,7 @@
 *************************************************
 *************************************************
 *************************************************
-03-jun-2016 *** WORK IN PROGRESS ***
-
-
-Release 10.06.xx//SPLIT-SUBSIDIARY(\*)//DbEnterprises-Revision
-
-* Introducing SHIM-ES6 "map and set collection", "promises"
-
-
+22-jul-2016 *** WORK IN PROGRESS ***
 
 
 
