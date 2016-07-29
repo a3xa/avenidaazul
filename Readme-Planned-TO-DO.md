@@ -17,7 +17,14 @@ a3xa engine customized for avenidaazul.a3xa.com
 ______________________________________________
 
 
-* #410 Enterprises EInfo table mng, Summary mng, 
+* #110 Enterprises deferred EInfo table 
+
+______________________________________________
+
+
+* #210 Visitor comunication to webmaster quick form
+* #250 Operator Self Registering Forms NEW/MODIFY/VIEW 
+* 
 
 ______________________________________________
 
