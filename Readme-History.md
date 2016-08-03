@@ -2,6 +2,10 @@
 a3xa engine customized for avenidaazul.a3xa.com ---
 ***********************************************************************
 ***********************************************************************
+update:2016-08-03//
+Release-10.09.85//
+A3XML2JSON-JSON-standard-format-suppress-old-custom-a3xa-xml-format 
+***********************************************************************
 update:2016-07-22//
 Release 10.08.30//TBSLICES
 Introducing SHIM-ES6 "map-set collection, promises"
