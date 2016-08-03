@@ -3,7 +3,7 @@
 *************************************************
 22-jul-2016 *** WORK IN PROGRESS ***
 
-- A3XML2JSON:  a3xa custom xml format to ---> JSON standard format 
+
 - A3AJAX2Q: a3xa custom xml ajax to ---> jquery ajax std 
 
 *************************************************
