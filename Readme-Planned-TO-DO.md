@@ -4,7 +4,7 @@
 22-jul-2016 *** WORK IN PROGRESS ***
 
 
-- A3AJAX2Q: a3xa custom xml ajax to ---> jquery ajax std 
+- CHROME ISSUE
 
 *************************************************
 *************************************************
