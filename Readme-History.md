@@ -2,6 +2,10 @@
 a3xa engine customized for avenidaazul.a3xa.com ---
 ***********************************************************************
 ***********************************************************************
+update-2016-08-09//
+Release-10.10.20//
+A3AJAX2Q-custom-xml-ajax-2-jquery-ajax-std 
+***********************************************************************
 update:2016-08-03//
 Release-10.09.85//
 A3XML2JSON-JSON-standard-format-suppress-old-custom-a3xa-xml-format 
