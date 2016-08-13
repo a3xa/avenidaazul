@@ -1,28 +1,27 @@
 *************************************************
 *************************************************
 *************************************************
-22-jul-2016 *** WORK IN PROGRESS ***
+a3xa engine customized for avenidaazul.a3xa.com 
+*************************************************
+
+13-aug-2016 *** WORK IN PROGRESS ***
 
 
-- SECURITY
+- DEFEI-More-Performances-by-deferred-Enterprises-EInfo-table 
 
 *************************************************
 *************************************************
 *************************************************
 **** PLANNED - TO DO ****
 
-a3xa engine customized for avenidaazul.a3xa.com 
+
+
 
 
 ______________________________________________
 
 
-* #110 Enterprises deferred EInfo table 
-
-______________________________________________
-
-
-* #210 Visitor comunication to webmaster quick form
+* #210 Visitor quick form for comunication to webmaster 
 * #250 Operator Self Registering Forms NEW/MODIFY/VIEW 
 * 
 
