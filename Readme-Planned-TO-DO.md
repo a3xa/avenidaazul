@@ -4,9 +4,9 @@
 a3xa engine customized for avenidaazul.a3xa.com 
 *************************************************
 
-13-aug-2016 *** WORK IN PROGRESS ***
+14-aug-2016 *** WORK IN PROGRESS ***
 
-
+- Security
 - DEFEI-More-Performances-by-deferred-Enterprises-EInfo-table 
 
 *************************************************
