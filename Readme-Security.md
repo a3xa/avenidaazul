@@ -13,7 +13,6 @@ http://caniuse.com/#feat=subresource-integrity
 **************************************
 update:2015-12-31
 //  -----------   SUBRESOURCE INTEGRITY (SRI)  -----------  //
-ACTIVE ON FIREFOX RELEASE 43 
 
 DEV WEBSITE html 
 ......
