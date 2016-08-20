@@ -1,4 +1,9 @@
 NOTES ON SECURITY
+**************************************
+2016-08-20 
+- javascript "use strict"
+- banned embedded &lt;script&gt;s
+
 
 **************************************
 2016-04-04 
