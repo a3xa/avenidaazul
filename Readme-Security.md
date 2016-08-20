@@ -3,6 +3,7 @@ NOTES ON SECURITY
 2016-08-20 
 - javascript "use strict"
 - banned embedded &lt;script&gt;s
+- log users,webbots,spiders,hackers
 
 
 **************************************
