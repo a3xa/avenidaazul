@@ -4,10 +4,9 @@
 a3xa engine customized for avenidaazul.a3xa.com 
 *************************************************
 
-07-sep-2016 *** WORK IN PROGRESS ***
+17-sep-2016 *** WORK IN PROGRESS ***
 
-- Security
-- DefComEI-More-Performances-by-deferring-Common-EInfo-data
+- 10.14//ATG-Administrator-enterprises-tables-batch-generator-updater
 
 *************************************************
 *************************************************
@@ -23,7 +22,7 @@ ______________________________________________
 
 * #210 Visitor quick form for comunication to webmaster 
 * #250 Operator Self Registering Forms NEW/MODIFY/VIEW 
-* 
+* Security
 
 ______________________________________________
 
