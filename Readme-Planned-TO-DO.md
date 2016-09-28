@@ -4,9 +4,9 @@
 a3xa engine customized for avenidaazul.a3xa.com 
 *************************************************
 
-24-sep-2016 *** WORK IN PROGRESS ***
+28-sep-2016 *** WORK IN PROGRESS ***
 
-- 10.14//php2js-html-migration
+
 - 10.15//ATG-Administrator-enterprises-json-tables-batch-generator-updater
 
 *************************************************
@@ -21,10 +21,10 @@ a3xa engine customized for avenidaazul.a3xa.com
 ______________________________________________
 
 
-* #210 Visitor quick form for comunication to webmaster 
+* #210 Visitor quick form for comunications to webmaster 
 * #250 Operator Self Registering Forms NEW/MODIFY/VIEW 
 * Security
-
+* #290 AHG Administrator html pages batch generator updater for search engines bots
 ______________________________________________
 
 * #510 Orderby GeoCoords 
@@ -38,6 +38,11 @@ ______________________________________________
 
 
 * #600 increase by 10 #of enterprises in the database 
+
+______________________________________________
+LOW PRIORITY
+
+* #1000 Animated Background
 
 
 ______________________________________________
