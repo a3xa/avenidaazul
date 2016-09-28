@@ -53,19 +53,3 @@ ______________________________________________
 
 
 
-
-
-
-*************************************************
-*************************************************
-*************************************************
-
-(\*)MILESTONE: A3xa website established: 
-   a) server data web service mysql+php dbcloud surrogate
-   b) client CDN JS Jquery Bootstrap html view
-   c) CDN Common data A3xa Static Data Service
-
-
-(\*)HDPO: Host=Data Provider Only, Client=Data Caching and View
-
-(\*)DOP: Data-Operations-Performances
