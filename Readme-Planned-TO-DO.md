@@ -19,6 +19,7 @@ a3xa engine customized for avenidaazul.a3xa.com
 
 
 ______________________________________________
+
 [UIF] USER INTERACTION FEATURES
 
 * #210 Visitor quick form for comunications to webmaster 
@@ -26,12 +27,15 @@ ______________________________________________
 * Security
 
 ______________________________________________
+
 [WM] WEBMASTER FEATURES
+
 
 * # WM-Webmaster-Features//WMHG Html pages batch generator updater for search engines bots
 * # WM-Webmaster-Features//WMXMLJ-SitemapXml-Javascript-Batch-Procedure
 
 ______________________________________________
+
 [EF] ENGINE FEATURES
 
 * #510 Orderby GeoCoords 
@@ -41,7 +45,9 @@ ______________________________________________
 * #560 [Delayed] New-Regions
 * #1000 EFF-Visible-Feedback//EFFAB Animated Background
 * 
+
 ______________________________________________
+
 [CTNS] CONTENTS
 
 * #600 increase by 10 #of enterprises in the database 
