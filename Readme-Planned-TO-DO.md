@@ -4,10 +4,10 @@
 a3xa engine customized for avenidaazul.a3xa.com 
 *************************************************
 
-28-sep-2016 *** WORK IN PROGRESS ***
+07-oct-2016 *** WORK IN PROGRESS ***
 
-
-- 10.15//WM-Webmaster-Features//WMTG-Enterprises-json-tables-batch-generator-updater
+- 10.15//Maintenance-Release
+- 10.16//WM-Webmaster-Features//WMTG-Enterprises-json-tables-batch-generator-updater
 
 *************************************************
 *************************************************
@@ -22,7 +22,7 @@ ______________________________________________
 
 [UIF] USER INTERACTION FEATURES
 
-* #210 Visitor quick form for comunications to webmaster 
+* #210 Visitor quick form for urgent comunications to webmaster 
 * #250 Operator Self Registering Forms NEW/MODIFY/VIEW 
 * Security
 
