@@ -1,6 +1,6 @@
 **** CURRENT ENGINE FEATURES STATUS ****
 a3xa engine customized for avenidaazul.a3xa.com 
-04-jun-2016 **** 
+09-oct-2016 **** 
 ______________________________________________
 
 
@@ -24,14 +24,16 @@ ______________________________________________
 ******* TECH FEATURES ********
 
 * FULL JAVASCRIPT/AJAX DIRECTORY APPLICATION
+* User Friendly Url:   http://..../lang/enterprise/category/city/state/country/region/area/xurcc/
 * eXtended url Unified Request Compact Code parameter (XURCC) for queries + description blind parameter
 * CDN Sprite Icons
 * CDN Contents Delivery Network JS A3xa Engine
 * CDN Static A3xa Common-data and Geo Database
 * SECURITY: JS SRI SUBRESOURCE INTEGRITY  SHA384 (tested on Firefox 43 and Chrome)
-* SECURITY: JS changing coding style by crockford's classless prototypeless guidelines
+* SECURITY: JS changing coding style by Crockford's classless prototypeless guidelines
+* SECURITY: no use of embedded script
 * (\*)SECURITY planned:  SSL
-* JS coding style: MIX OF:
+* JS coding style: a MIX OF:
     * LEGACY prototypeless heavy use of "this" and "new"
     * NEW Crockford's classless prototypeless with Interfaces-java-style-or-C++COM. 
           Any performance issue deferred to Csharp on XAMARIN or ES6
