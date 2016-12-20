@@ -1,6 +1,6 @@
 **** CURRENT ENGINE FEATURES STATUS ****
 a3xa engine customized for avenidaazul.a3xa.com 
-09-oct-2016 **** 
+20-dec-2016 **** 
 ______________________________________________
 
 
@@ -32,7 +32,7 @@ ______________________________________________
 * SECURITY: JS SRI SUBRESOURCE INTEGRITY  SHA384 (tested on Firefox 43 and Chrome)
 * SECURITY: JS changing coding style by Crockford's classless prototypeless guidelines
 * SECURITY: no use of embedded script
-* (\*)SECURITY planned:  SSL
+* SECURITY (*hosting): SSL certificate
 * JS coding style: a MIX OF:
     * LEGACY prototypeless heavy use of "this" and "new"
     * NEW Crockford's classless prototypeless with Interfaces-java-style-or-C++COM. 
