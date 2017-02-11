@@ -4,11 +4,11 @@
 a3xa engine customized for avenidaazul.a3xa.com 
 *************************************************
 
-28-oct-2016 *** WORK IN PROGRESS ***
+11-feb-2016 *** WORK IN PROGRESS ***
 
-- Done 10.15//Maintenance-Release
-- 10.16//Administrator-Widgets-PlayBar-ProgressBar
-- 10.17//WM-Webmaster-Features//WMTG-Enterprises-json-tables-batch-generator-updater
+- Internal Release 10.15//Maintenance-Release 
+- Internal Release 10.16//Administrator-Widgets-PlayBar-ProgressBar
+- Administrator Release 10.17//WM-Webmaster-Features//WMTG-Enterprises-json-tables-and-html-pages-administrator-batch-generator-updater
 
 *************************************************
 *************************************************
