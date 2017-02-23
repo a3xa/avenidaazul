@@ -1,6 +1,6 @@
 **** CURRENT ENGINE FEATURES STATUS ****
 a3xa engine customized for avenidaazul.a3xa.com 
-20-dec-2016 **** 
+22-feb-2017 **** 
 ______________________________________________
 
 
@@ -51,14 +51,14 @@ ______________________________________________
 ******* ASSETS ********
 
 * Languages: JS ECMASCRIPT 5, PHP latest, MYSQLi Innodb
-* Libraries: JQuery 2 - https://code.jquery.com/jquery-2.x.x.min.js
+* Libraries: JQuery 2 - https://code.jquery.com/jquery-2.x.x.min.js  (23-feb-2017 upgrade to 3.1.1 dev)
 * Libraries: SHIM-ES6(\*) (promises+map-arrays) - https://cdnjs.cloudflare.com/ajax/libs/es6-shim/0.35.1/es6-shim.min.js
 * JS Plugins: MagnificPopup (to be replaced by A3xaPopup) - https://cdnjs.cloudflare.com/ajax/libs/magnific-popup.js/1.0.1/jquery.magnific-popup.min.js
-* JS Plugins: Eligrey FileSaver (administrator releases) - https://rawgit.com/eligrey/FileSaver.js/master/FileSaver.min.js
-* JS Plugins: Stuk JsZip (administrator releases) - https://rawgit.com/Stuk/jszip/master/dist/jszip.min.js
-* Framework: Introducing twitter-bootstrap-css ver 3.x.x
+* JS Plugins: Eligrey FileSaver - https://rawgit.com/eligrey/FileSaver.js/master/FileSaver.min.js
+* JS Plugins: Stuk JsZip - https://rawgit.com/Stuk/jszip/master/dist/jszip.min.js
+* Framework: Introducing twitter-bootstrap-css ver 3.x.x (23-feb-2017 update to 3.3.7 dev) 
 * PHP Framework: NONE.
-* JSON Asynchronous INDEXEDDB, Sync LOCAL-STORAGE, Sync SESSION-STORAGE, Sync FLY-STORAGE  for TURBO 
+* JSON Async INDEXEDDB, Sync LOCAL-STORAGE, Sync SESSION-STORAGE, Sync FLY-STORAGE  for TURBO 
 
 
 ******* REFERENCES and TUTORIALS ********
@@ -73,10 +73,10 @@ LIB
 * https://github.com/paulmillr/es6-shim
 * https://github.com/es-shims/es6-shim/
 * https://github.com/es-shims/
-* https://github.com/eligrey/FileSaver.js (*included in administrator release 2017-feb-11)
+* https://github.com/eligrey/FileSaver.js (*introduced in administrator release 2017-feb-11)
    - https://github.com/eligrey/Blob.js (*optional)
    - https://github.com/eligrey/canvas-toBlob.js (*optional)
-* https://github.com/Stuk/jszip (*included in administrator release 2017-feb-11)
+* https://github.com/Stuk/jszip (*introduced in administrator release 2017-feb-11)
       http://stuk.github.io/jszip/
       
       
