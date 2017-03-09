@@ -4,15 +4,12 @@
 a3xa engine customized for avenidaazul.a3xa.com 
 *************************************************
 
-11-feb-2016 *** WORK IN PROGRESS ***
+09-mar-2017 *** WORK IN PROGRESS ***
 
-- Internal Release 10.15//Maintenance-Release 
-- Internal Release 10.16//Administrator-Widgets-PlayBar-ProgressBar
-- Administrator Release 10.17//WM-Webmaster-Features//WMTG-Enterprises-json-tables-and-html-pages-administrator-batch-generator-updater
-
-- Immediatly following
-* # WM-Webmaster-Features//WMHG Html pages batch generator updater for search engines bots
-* # WM-Webmaster-Features//WMXMLJ-SitemapXml-Javascript-Batch-Procedure
+- 10.18//Regions-DBUpdate-Contents
+- 10.19//WM-Webmaster-Features//Enterprises-static-json-tables
+- 10.20//WM-Webmaster-Features//webbots-html-pages
+- 10.21//WM-Webmaster-Features//WMXMLJ-SitemapXml-Javascript-Batch-Procedure
 
 *************************************************
 *************************************************
@@ -24,7 +21,7 @@ ______________________________________________
 
 [CDAR] CONTENTS DB AREAS REDEFINITION
 
-* #110 Areas & Regions   
+* #110 in progress.... by 10.18 
 
 ______________________________________________
 
