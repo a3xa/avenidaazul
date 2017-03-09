@@ -2,6 +2,18 @@
 a3xa engine customized for avenidaazul.a3xa.com ---
 ***********************************************************************
 ***********************************************************************
+update-2017-03-09//
+Release-10.18.85//
+WM-Webmaster-Features//WMTG-Enterprises-json-tables-and-html-pages-administrator-batch-generator-updater
+***********************************************************************
+update-2017-01-01//
+Internal-Release-10.16.xx//
+Widgets-PlayBar
+***********************************************************************
+update-2016-11-01//
+Internal-Release-10.15.xx//
+Maintenance
+***********************************************************************
 update-2016-09-27//
 Release-10.14.30//
 php2js-html-migration
