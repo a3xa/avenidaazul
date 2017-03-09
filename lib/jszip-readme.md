@@ -1,6 +1,10 @@
+2017-mar-09
 Copy of the minified version v3.1.3 2016-oct-05 of stuk JSZIP code
+
 https://rawgit.com/Stuk/jszip/master/dist/jszip.min.js
+
 integrity-original="sha384-v9EFJbsxLXyYar8TvBV8zu5USBoaOC+ZB57GzCmQiWfgDIjS+wANZMP5gjwMLwGv"
+
 integrity-of-the-copy="sha384-qktO7evuAguBgri3rfmU6xHhGSLmgEabS/akmZgvNy/uoq8lB1UzkzOZAF0bJ7QH"
 
 
