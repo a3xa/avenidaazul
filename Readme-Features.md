@@ -1,6 +1,6 @@
 **** CURRENT ENGINE FEATURES STATUS ****
 a3xa engine customized for avenidaazul.a3xa.com 
-22-feb-2017 **** 
+12-mar-2017 **** 
 ______________________________________________
 
 
@@ -21,10 +21,14 @@ ______________________________________________
 
 
 
+******* ADMINISTRATOR FEATURES ********
+
+* BATCH PROCEDURES
+
 
 ******* TECH FEATURES ********
 
-* FULL JAVASCRIPT/AJAX DIRECTORY APPLICATION
+* FULL JAVASCRIPT/AJAX DIRECTORY SPA APPLICATION
 * eXtended url Unified Request Compact Code parameter (XURCC) for queries + description blind parameter
 * CDN Sprite Icons
 * CDN Contents Delivery Network JS A3xa Engine
