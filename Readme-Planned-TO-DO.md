@@ -4,9 +4,8 @@
 a3xa engine customized for avenidaazul.a3xa.com 
 *************************************************
 
-09-mar-2017 *** WORK IN PROGRESS ***
+22-mar-2017 *** WORK IN PROGRESS ***
 
-- 10.18//Regions-DBUpdate-Contents
 - 10.19//WM-Webmaster-Features//Enterprises-static-json-tables
 - 10.20//WM-Webmaster-Features//webbots-html-pages
 - 10.21//WM-Webmaster-Features//WMXMLJ-SitemapXml-Javascript-Batch-Procedure
@@ -21,7 +20,6 @@ ______________________________________________
 
 [CDAR] CONTENTS DB AREAS REDEFINITION
 
-* #110 in progress.... by 10.18 
 
 ______________________________________________
 
