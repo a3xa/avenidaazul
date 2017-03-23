@@ -4,7 +4,7 @@
 a3xa engine customized for avenidaazul.a3xa.com 
 *************************************************
 
-22-mar-2017 *** WORK IN PROGRESS ***
+23-mar-2017 *** WORK IN PROGRESS ***
 
 - 10.19//WM-Webmaster-Features//Enterprises-static-json-tables
 - 10.20//WM-Webmaster-Features//webbots-html-pages
@@ -16,6 +16,11 @@ a3xa engine customized for avenidaazul.a3xa.com
 **** PLANNED - TO DO ****
 
 
+______________________________________________
+
+[CDN] HOSTING
+
+* #110 Change Image Hosting to imgur.com
 ______________________________________________
 
 [CDAR] CONTENTS DB AREAS REDEFINITION
