@@ -7,8 +7,10 @@ a3xa engine customized for avenidaazul.a3xa.com
 24-jun-2017 *** WORK IN PROGRESS ***
 
 - 10.23//WM-Webmaster-Features//A3XAJDB-Enterprises-static-json-tables
-- 10.24//WM-Webmaster-Features//webbots-html-pages
-- 10.25//WM-Webmaster-Features//WMXMLJ-SitemapXml-Javascript-Batch-Procedure
+- 10.24//New-decent-A3xa-CSS
+      required-by-webbots-static-html-pages
+- 10.25//WM-Webmaster-Features//webbots-static-html-pages
+- 10.26//WM-Webmaster-Features//WMXMLJ-SitemapXml-Javascript-Batch-Procedure
 
 *************************************************
 *************************************************
