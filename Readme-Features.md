@@ -60,12 +60,12 @@ ______________________________________________
 ******* ASSETS ********
 
 * Languages: JS ECMASCRIPT 5, PHP latest, MYSQLi Innodb
-* Libraries: JQuery 2 - https://code.jquery.com/jquery-2.x.x.min.js  (23-feb-2017 upgrade to 3.1.1 dev)
-* Libraries: SHIM-ES6(\*) (promises+map-arrays) - https://cdnjs.cloudflare.com/ajax/libs/es6-shim/0.35.1/es6-shim.min.js
+* Libraries: JQuery 3 - https://code.jquery.com/jquery-3.2.1.min.js
+* Libraries: SHIM-ES6(\*) (promises+map-arrays) - https://cdnjs.cloudflare.com/ajax/libs/es6-shim/0.35.3/es6-shim.min.js
 * JS Plugins: MagnificPopup (to be replaced by A3xaPopup) - https://cdnjs.cloudflare.com/ajax/libs/magnific-popup.js/1.0.1/jquery.magnific-popup.min.js
 * JS Plugins: Eligrey FileSaver - https://rawgit.com/eligrey/FileSaver.js/master/FileSaver.min.js
 * JS Plugins: Stuk JsZip - https://rawgit.com/Stuk/jszip/master/dist/jszip.min.js
-* Framework: Introducing twitter-bootstrap-css ver 3.x.x (23-feb-2017 update to 3.3.7 dev) 
+* Framework: Introducing twitter-bootstrap-css ver 3.3.7
 * PHP Framework: NONE.
 * JSON Async INDEXEDDB, Sync LOCAL-STORAGE, Sync SESSION-STORAGE, Sync FLY-STORAGE  for TURBO 
 
@@ -78,7 +78,7 @@ SHIM-ES6
 
 
 LIB
-* https://cdnjs.cloudflare.com/ajax/libs/es6-shim/0.35.1/es6-shim.min.js
+* https://cdnjs.cloudflare.com/ajax/libs/es6-shim/0.35.3/es6-shim.min.js
 * https://github.com/paulmillr/es6-shim
 * https://github.com/es-shims/es6-shim/
 * https://github.com/es-shims/
