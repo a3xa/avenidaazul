@@ -4,12 +4,9 @@
 a3xa engine customized for avenidaazul.a3xa.com 
 *************************************************
 
-24-jun-2017 *** WORK IN PROGRESS ***
+01-jul-2017 *** WORK IN PROGRESS ***
 
-- 10.23//WM-Webmaster-Features//A3XAJDB-Enterprises-static-json-tables
-- 10.24//New-decent-A3xa-CSS
-      required-by-webbots-static-html-pages
-- 10.25//WM-Webmaster-Features//webbots-static-html-pages
+- 10.25//WM-Webmaster-Features//static-html-pages-for-webbots
 - 10.26//WM-Webmaster-Features//WMXMLJ-SitemapXml-Javascript-Batch-Procedure
 
 *************************************************
@@ -33,14 +30,13 @@ ______________________________________________
 [EU] ENGINE UPGRADE
 
 * #210 Upgrade to Bootstrap 4 release version 
-* #250 a3xa CSS 
 
 ______________________________________________
 
 [UIF] USER INTERACTION FEATURES
 
 * #310 Visitor quick form for urgent comunications to webmaster 
-* #350 Operator Self Registering Forms NEW/MODIFY/VIEW 
+* #350 Operator Self Registering Forms NEW/MODIFY/VIEW-ENTERPRISE 
 * Security
 
 ______________________________________________
@@ -57,9 +53,8 @@ ______________________________________________
 
 * #510 Orderby GeoCoords 
 * #520 N-dim Categories metasystem 
-* #530 Microregions 
+* #530 Microregions or New-Regions
 * #540 New A3xa Language-System for Gng and Nti
-* #560 [Delayed] New-Regions
 * #1000 EFF-Visible-Feedback//EFFAB Animated Background
 * 
 
