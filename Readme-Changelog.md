@@ -2,6 +2,11 @@
 a3xa engine customized for avenidaazul.a3xa.com ---
 ***********************************************************************
 ***********************************************************************
+update-2017-07-04//
+Release-10.25.14*//
+webbots-static-html-pages
+*Server-side
+***********************************************************************
 update-2017-07-03//
 Release-10.25.10//
 webbots-static-html-pages-part-1-preliminary
