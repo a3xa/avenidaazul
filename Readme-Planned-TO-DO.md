@@ -4,10 +4,9 @@
 a3xa engine customized for avenidaazul.a3xa.com 
 *************************************************
 
-04-jul-2017 *** WORK IN PROGRESS ***
+05-jul-2017 *** WORK IN PROGRESS ***
 
-
-- 10.26//WM-Webmaster-Features//WMXMLJ-SitemapXml-Javascript-Batch-Procedure
+- 10.27//RUF-Registered-User-Feaures//Enterprise-Edit-Form 
 
 *************************************************
 *************************************************
@@ -43,6 +42,7 @@ ______________________________________________
 
 [WM] WEBMASTER FEATURES
 
+* #410//WM-Webmaster-Features//WMXMLJ-SitemapXml-Javascript-Batch-Procedure(Deferred)
 
 
 
